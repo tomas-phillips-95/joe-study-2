@@ -1,0 +1,2124 @@
+{
+  "decks": [
+    {
+      "deck": "Midterm - Foundations and Legal/Ethical Frameworks",
+      "cards": [
+        {
+          "question": "Which of the following is NOT a core competency of APRNs?",
+          "choices": {
+            "A": "Technology and information literacy",
+            "B": "Health delivery system",
+            "C": "Ethics",
+            "D": "Delegated practice"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following is characteristic of the leadership competency for APRNs?",
+          "choices": {
+            "A": "Participating in a community-focused program that promotes mental health and reduces the risk of mental health problems",
+            "B": "Evaluating the appropriate use of seclusion and restraints in caring for a mentally ill patient",
+            "C": "Developing an age-appropriate treatment plan",
+            "D": "Modifying the treatment plan based on the patient's needs"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "All of the following are characteristic of the independent practice competency except:",
+          "choices": {
+            "A": "Considering differential diagnoses",
+            "B": "Conducting individual and group psychotherapy",
+            "C": "Taking opportunities to influence health policy to reduce the stigma of mental health services",
+            "D": "Implementing plans to minimize complications and to promote function"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A state’s Nurse Practice Act specifies all of the following EXCEPT:",
+          "choices": {
+            "A": "Who may use the title nurse practitioner",
+            "B": "What a nurse practitioner can do",
+            "C": "Restriction of the nurse practitioner's practice",
+            "D": "Provide oversight for service and benefits provided to patients"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following may govern the profession of the PMHNP?",
+          "choices": {
+            "A": "Statutory law",
+            "B": "The U.S. Constitution",
+            "C": "Certification",
+            "D": "City ordinances"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following factors are facilitating the growth of the PMHNP?",
+          "choices": {
+            "A": "Increased competition in the job market",
+            "B": "Overlapping scope of practice with other types of nurse practitioners",
+            "C": "Decreasing stigmatization",
+            "D": "Collaborative practice relationships with physicians"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "Why is it necessary for insurance companies to credential PMHNPs?",
+          "choices": {
+            "A": "To protect the public by ensuring a minimum level of professional competence",
+            "B": "To define the scope of practice and practice requirements",
+            "C": "To ensure a professional organization certifies the person is licensed to practice",
+            "D": "To define the role of the nurse practitioner"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following allows the PMHNP to practice in a state?",
+          "choices": {
+            "A": "Certification",
+            "B": "Licensure",
+            "C": "Credentialing",
+            "D": "Graduation"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "All of the following statements are true regarding scope of practice EXCEPT",
+          "choices": {
+            "A": "The scope of practice defines the nurse practitioner role and actions",
+            "B": "The scope of practice identifies competencies assumed to be held by all nurse practitioners in a specific role",
+            "C": "The scope of practice provides a way to judge the nature of the care provided",
+            "D": "The scope of practice varies broadly from state to state"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "All the following statements are true regarding standards of practice EXCEPT:",
+          "choices": {
+            "A": "Standards of practice reflect professional agreement focusing on the minimum levels of acceptable performance",
+            "B": "Standards of practice provide a way to judge the nature of care provided",
+            "C": "Standards of practice identify competencies assumed to be held by all nurse practitioners (NPs) who function in a similar role",
+            "D": "Standards of practice can be used legally to describe a standard of care that must be met by a provider"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "All of the following are considered personal health identifiers EXCEPT",
+          "choices": {
+            "A": "Patient's name",
+            "B": "Patient's diagnosis",
+            "C": "Address",
+            "D": "Phone number"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "Unless the patient provides consent for releasing information, the Health Information Portability and Accountability Act (HIPA",
+          "choices": {
+            "A": "The patient's next of kin",
+            "B": "The patient's health insurance company",
+            "C": "The patient's clergy",
+            "D": "The patient's attorney"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "All of the following circumstances would allow the release of medical information without the patient’s consent EXCEPT:",
+          "choices": {
+            "A": "If the client reveals intent to harm self or others",
+            "B": "Records to the insurance company",
+            "C": "Responding to court orders, subpoenas, or summons",
+            "D": "Next of kin wanting to help the patient make decisions"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A PMHNP is asked to determine if the patient has the capacity for informed consent. All of the following elements are necessary for making this determination EXCEPT:",
+          "choices": {
+            "A": "The patient understands the purpose of the proposed treatment for the procedure",
+            "B": "The patient understands the risks and discomforts and benefits of the treatment",
+            "C": "The patient understands alternatives to the intended procedure",
+            "D": "The patient has a therapeutic alliance with the surgeon"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following ethical principles deals with promoting the wellbeing of a patient?",
+          "choices": {
+            "A": "Justice",
+            "B": "Beneficence",
+            "C": "Nonmaleficence",
+            "D": "Autonomy"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following ethical principles would conflict if the treatment team wanted to implement a therapeutic deception for the good of the patient?",
+          "choices": {
+            "A": "Beneficence",
+            "B": "Nonmaleficence",
+            "C": "Justice",
+            "D": "Veracity"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A patient who is refusing psychiatric treatment has their case adjudicated. The judge orders treatment over objection for the good of the patient. Which ethical principle is trumped?",
+          "choices": {
+            "A": "Beneficence",
+            "B": "Nonmaleficence",
+            "C": "Justice",
+            "D": "Autonomy"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "Actions judged based on their inherent value regardless of their consequence is based on which ethical decision-making approach?",
+          "choices": {
+            "A": "Teleological theory",
+            "B": "Deontological theory",
+            "C": "Virtue ethics",
+            "D": "Justice principle"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "An action that is judged good or bad based on the consequence demonstrates which ethical decision-making approach?",
+          "choices": {
+            "A": "Teleological theory",
+            "B": "Deontological theory",
+            "C": "Virtue ethics",
+            "D": "Justice principle"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "All of the following are necessary criteria for commitment for involuntary evaluation and treatment except:",
+          "choices": {
+            "A": "The person has a diagnosed psychiatric disorder",
+            "B": "The person has potential to harm self or others because of the disorder and is unaware or unwilling to accept the nature and severity of the disorder",
+            "C": "Treatment is likely to improve function",
+            "D": "The patient is unable to afford the cost of treatment"
+          },
+          "answer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "deck": "Midterm - Physical Assessment and Diagnostic Findings",
+      "cards": [
+        {
+          "question": "A systematic inquiry that elaborates on the chief complaint while eliciting pertinent positive and pertinent negative factors from the history is known as:",
+          "choices": {
+            "A": "The mental status exam",
+            "B": "Review of systems",
+            "C": "Physical exam",
+            "D": "Diagnostic formulation"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "The mental status exam includes all of the following except:",
+          "choices": {
+            "A": "Appearance and behavior",
+            "B": "Mood and affect",
+            "C": "Cranial nerves and reflexes",
+            "D": "Insight and judgment"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 72-year-old female presents to the emergency department for altered mental status. Her urine analysis is negative, and her labs are normal. She has been referred to psychiatry for dementia. The patient’s husband reports increasing forgetfulness over the last 6 months, walking as if her feet are stuck to the ground, and most recently episodes of urinary incontinence. Based on the signs and symptoms which of the following diagnostic tests should the PMHNP order to rule out an underlying condition?",
+          "choices": {
+            "A": "Lumbar puncture",
+            "B": "Noncontrast head CT scan",
+            "C": "Arterial blood gas",
+            "D": "Electroencephalogram"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "The condition in which the patient is unable to discriminate between objects based on touching is known as:",
+          "choices": {
+            "A": "Agraphesthesia",
+            "B": "Choreiform",
+            "C": "Astereognosis",
+            "D": "Dysdiadochokinesia"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "The PMHNP is conducting a neurological examination on a patient with altered mental status. The inability to perform rapidly alternating hand movements is known as:",
+          "choices": {
+            "A": "Agraphesthesia",
+            "B": "Choreiform",
+            "C": "Astereognosis",
+            "D": "Dysdiadochokinesia"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "The PMHNP is observing a patient making repetitive and rapid jerking involuntary coordinated movements. In documenting the findings of the mental status exam, which of the following concisely describes this behavior?",
+          "choices": {
+            "A": "Agraphesthesia",
+            "B": "Choreiform",
+            "C": "Astereognosis",
+            "D": "Dysdiadochokinesia"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "The PMHNP is supervising a nurse practitioner student. When presenting the case, the student notes that the patient has an inability to recognize letters or numbers drawn on the palm with a pointed object. This sign is called:",
+          "choices": {
+            "A": "Agraphesthesia",
+            "B": "Choreiform",
+            "C": "Astereognosis",
+            "D": "Dysdiadochokinesia"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A patient is started on lamotrigine for bipolar depression. The patient complained of a rash comprised of blistering skin and mouth sores after a dose increase. The blood work reveals normal renal and liver function. Which type of drug rash is most likely?",
+          "choices": {
+            "A": "DRESS syndrome",
+            "B": "Stevens–Johnson syndrome",
+            "C": "Psoriasis",
+            "D": "Atopic dermatitis"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "In observing the appearance of the patient with depression and a history of systemic lupus erythematosus, the PMHNP notices a lesion on the neck of the patient about the size of a pencil eraser, flush with the skin, uniformly colored, with discrete borders and consistent texture. The PMHNP should:",
+          "choices": {
+            "A": "Refer the patient to dermatology",
+            "B": "Refer the patient to rheumatology",
+            "C": "Refer the patient to oncology",
+            "D": "Watch and wait"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A 35-year-old man diagnosed with bipolar disorder mentions to his PMHNP that he had felt a lump on his left testicle. He is concerned he has not had a physical exam in 10 years. What is the best action by the PMHNP?",
+          "choices": {
+            "A": "Perform a urogenital exam and order an ultrasound",
+            "B": "Explore the reason for not having had a physical in so long",
+            "C": "Refer him to his primary care provider",
+            "D": "Refer him to urology"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 26-year-old female is diagnosed with psychosis not otherwise specified (NOS) and substance use disorder. Which of the following lab tests should be ordered prior to starting antipsychotic medications?",
+          "choices": {
+            "A": "Hemoglobin A1C, lipid profile, EKG",
+            "B": "Urinalysis, urine pregnancy test",
+            "C": "Amylase, lipase, liver function test",
+            "D": "Cardiac enzymes, brain naturetic peptide"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A 57-year-old man was evaluated in the ED for altered mental status. His head CT scan is negative, white blood cells are 6,000, urinalysis negative for infection with positive ketones, serum glucose is 120 mg/dL, sodium is 148, blood urea nitrogen 22, creatinine 1.8, and cardiac enzymes are negative. Neurology has cleared him for an acute event, and the ED physician has cleared him for psychiatry. The PMHNP evaluating him obtained collateral information that the patient has been in bed for 3 days, and not eating or drinking because the voices tell him the food is bad and the water is contaminated. What should the nurse practitioner do first?",
+          "choices": {
+            "A": "Order 1 L normal saline at 100 mL/hr",
+            "B": "Order Haldol 5 mg PO × 1",
+            "C": "Order a lumbar puncture",
+            "D": "Order hemoglobin A1C and lipid profile"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A 30-year-old man with history of alcohol use disorder is being evaluated for altered mental status. He has a negative blood alcohol level, aspartate transaminase 100, alanine transaminase 90, hemoglobin 10, hematocrit 30, negative stool for occult blood, negative head CT scan. What further tests should the PMHNP order before diagnosing psychosis not otherwise specified?",
+          "choices": {
+            "A": "EKG",
+            "B": "Lipid profile",
+            "C": "Hemoglobin A1C",
+            "D": "Serum ceruloplasmin"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "The Consultation Liaison PMHNP is asked to evaluate an 88-year-old woman admitted to medicine with community acquired pneumonia for capacity regarding intubation. On evaluation the patient is inattentive and easily distracted, with waxing and waning sensorium. The patient was recently started on broad spectrum IV antibiotics. What is the most likely diagnosis?",
+          "choices": {
+            "A": "Depression",
+            "B": "Dementia",
+            "C": "Delirium",
+            "D": "Psychosis"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "When evaluating a new 40-year-old, 4-week postpartum woman complaining of fatigue, irritability, dry skin, and poor sleep quality for mood disorder, which of the following diagnostic tests should be ordered to aid in formulating a diagnosis?",
+          "choices": {
+            "A": "Hemoglobin A1C",
+            "B": "EKG",
+            "C": "Thyroid-stimulating hormone (TSH) and free T4",
+            "D": "Urine pregnancy test"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 40-year-old man who has been on olanzapine for schizophrenia has a lipid profile indicating total cholesterol 240 mg/dL, and low-density lipoprotein (LDL) 200 mg/dL. Which of the following is recommended?",
+          "choices": {
+            "A": "Lifestyle modification",
+            "B": "Statin therapy",
+            "C": "Serial EKGs",
+            "D": "Transthoracic echocardiogram"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 24-year-old man has been stable on lithium 1,800 mg daily for 2 years. His most recent serum lithium level is 2.0. The patient has no signs or symptoms of toxicity. Which of the following is the best action by the PMHNP?",
+          "choices": {
+            "A": "Tell the patient to stop his medications immediately",
+            "B": "Encourage the patient to drink more water",
+            "C": "Repeat the lithium level and ensure it is a trough",
+            "D": "Send the patient to the ED"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 19-year-old female is evaluated in the ED for admission to an eating disorders unit and has a history of bulimia nervosa. Which of the following diagnostic tests should be ordered?",
+          "choices": {
+            "A": "Electrolytes and renal function",
+            "B": "Liver and pancreatic function",
+            "C": "Lipid profile and hemoglobin A1C",
+            "D": "Urinalysis and urine pregnancy test"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A 26-year-old man has been on an antipsychotic. He requires further titration for control of symptoms. Which of the following tests should be repeated?",
+          "choices": {
+            "A": "EKG",
+            "B": "Liver function test",
+            "C": "Urinalysis",
+            "D": "Head CT scan"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following is an indication for monitoring of serum drug levels?",
+          "choices": {
+            "A": "Smoking cessation",
+            "B": "New diagnosis of diabetes",
+            "C": "Resolution of symptoms",
+            "D": "New diagnosis of hyperlipidemia"
+          },
+          "answer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "deck": "Midterm - Personality Disorders and Defense Mechanisms",
+      "cards": [
+        {
+          "question": "A 56-year-old widow has deeply held beliefs about various conspiracy theories where the government is spying on her and her sister is trying to control her money. She attends writing classes, sings in the choir, and works as a mailroom clerk in a law firm. Which of the following is the most likely diagnosis of this patient?",
+          "choices": {
+            "A": "Paranoid personality disorder",
+            "B": "Schizotypal personality disorder",
+            "C": "Schizoid personality disorder",
+            "D": "Schizophrenia"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A 35-year-old man is found to have a flat aiect, very few current social contacts, and prefers to be alone. He was referred by the employee assistance program for evaluation after someone reported him for odd behavior. His boss reports that in 20 years he has never called out sick, does not attend company outings, and has never spoken of a significant other. Which of the following is the most likely diagnosis?",
+          "choices": {
+            "A": "Paranoid personality disorder",
+            "B": "Schizotypal personality disorder",
+            "C": "Schizoid personality disorder",
+            "D": "Schizophrenia"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 68-year-old woman who has been self-employed as a copyeditor avoids social gatherings and would rather stay home and read. She has a few distant friends who check in on her occasionally and who report her entire home is covered in bed sheets. She attends church weekly but quickly leaves after the service. She is known to never be without her feather boa. Which of the following best describes this patient?",
+          "choices": {
+            "A": "Paranoid personality disorder",
+            "B": "Schizotypal personality disorder",
+            "C": "Schizoid personality disorder",
+            "D": "Schizophrenia"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 40-year-old man with a past history of oppositional defiant behavior as a child has recently been released on parole for possession of marijuana and theft. He tells the probation oiicer to “send me to the psychiatrist so I can get some disability. ” Which of the following describes these personality traits?",
+          "choices": {
+            "A": "Cluster C personality",
+            "B": "Cluster B personality",
+            "C": "Cluster A personality",
+            "D": "Malingering"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 27-year-old woman with a history of substance use disorder and unstable employment brags to her mandated group therapy peers of her shoplifting exploits. These traits are most consistent with which of the following personality disorder?",
+          "choices": {
+            "A": "Antisocial personality disorder",
+            "B": "Borderline personality disorder",
+            "C": "Histrionic personality disorder",
+            "D": "Narcissistic personality disorder"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A 30-year-old female is admitted to the emergency department with her teddy bear after slashing her arms when her boyfriend left for a weeklong business trip. She states she did not want to kill herself but rather wanted him to come back home. These character traits are most consistent with which of the following personality disorders?",
+          "choices": {
+            "A": "Antisocial personality disorder",
+            "B": "Borderline personality disorder",
+            "C": "Histrionic personality disorder",
+            "D": "Narcissistic personality disorder"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 28-year-old female enters the room with wide gestures and declares, “I have arrived; let the fun begin. ” She struts her way through the room, bumping her way through the crowd and stepping on a few toes. These behaviors are most consistent with which personality disorder?",
+          "choices": {
+            "A": "Antisocial personality disorder",
+            "B": "Borderline personality disorder",
+            "C": "Histrionic personality disorder",
+            "D": "Narcissistic personality disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "Mr. B was recently promoted to the position of vice president at his company. He is charming, articulate, well dressed, and admired from afar. On one occasion a new subordinate challenged his decision. Mr. B responded with anger and passive aggressive tactics, leading the subordinate to cancel weekend plans to implement Mr. B’s idea. These personality traits are most consistent with which of the following disorders?",
+          "choices": {
+            "A": "Antisocial personality disorder",
+            "B": "Borderline personality disorder",
+            "C": "Histrionic Personality disorder",
+            "D": "Narcissistic personality disorder"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A 24-year-old man who has been diagnosed with substance-induced mood disorder is doing well maintaining his sobriety for the last 5 years. He complains of being lonely but is afraid of going to any social events lest he come into contact with alcohol. He requires much reassurance that he is okay, he will be fine, and that he is good enough to be around others whom he perceives to be better adjusted to life. These characteristics are most consistent with which of the following?",
+          "choices": {
+            "A": "Avoidant personality disorder",
+            "B": "Dependent personality disorder",
+            "C": "Obsessive compulsive personality disorder",
+            "D": "Paranoid personality disorder"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Mr. Smith is complaining about another failed romantic relationship. He says his girlfriend described him as needy all the time, avoidant of confrontation at all costs, agreeable to all her requests, and never disagreeable with her. She told him she was done with his passive ways and was going to find a real man. These traits are most consistent with which of the following disorders?",
+          "choices": {
+            "A": "Avoidant personality disorder",
+            "B": "Dependent personality disorder",
+            "C": "Obsessive compulsive personality disorder",
+            "D": "Paranoid personality disorder"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "In a movie, Jack Nicholson played a meticulous writer who was highly productive, very concerned about germ contamination, and very ritualistic about walking on sidewalk cracks. In addition, he would turn lights on and oi repeatedly and use a brand new bar of soap to wash his hands with exceedingly hot water. These traits are characteristic of which personality disorder?",
+          "choices": {
+            "A": "Avoidant personality disorder",
+            "B": "Dependent personality disorder",
+            "C": "Obsessive compulsive personality disorder",
+            "D": "Paranoid personality disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "In treating personality disorders the role of psychopharmacology is to:",
+          "choices": {
+            "A": "Alleviate comorbid mood symptoms",
+            "B": "Undo the antecedents leading to the disorder",
+            "C": "Modify behaviors",
+            "D": "Prevent comorbid conditions from developing"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following personality disorders can be diagnosed in a single visit?",
+          "choices": {
+            "A": "Narcissistic personality disorder",
+            "B": "Borderline personality disorder",
+            "C": "Antisocial personality disorder",
+            "D": "Histrionic personality disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following characteristics distinguishes schizotypal personality disorder from autism spectrum disorder?",
+          "choices": {
+            "A": "Severity of social impairment and stereotyped behaviors and interests",
+            "B": "Severe disturbance in expressive ability with compensatory eiorts to communicate in another way",
+            "C": "Cognitive perceptual disturbances",
+            "D": "Active desire for relationships but fear of rejection"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following characteristics distinguishes narcissistic personality disorder from antisocial personality disorder?",
+          "choices": {
+            "A": "The need for attention is related to the need for approval rather than admiration",
+            "B": "The lack of empathy manifested in impulsivity and aggression rather than the need for admiration",
+            "C": "The need for attention is triggered by instability of the self-image and fear of abandonment",
+            "D": "The grandiosity only occurs during times of elevated mood"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following characteristics distinguishes borderline personality disorder from histrionic personality disorder?",
+          "choices": {
+            "A": "The self-destructive reactions and angry disruptions in close relationships due to identity dibusion and fear of abandonment",
+            "B": "The manipulation aspect is for personal gain, profit, or power rather than for approval",
+            "C": "The desire for attention is for the purpose of being superior",
+            "D": "The lack of dramatic emotions with an excessive dependence on others for praise and guidance"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following characteristics distinguishes schizoid personality disorder from schizophrenia?",
+          "choices": {
+            "A": "Cognitive and perceptual disturbance in addition to social isolation",
+            "B": "Paranoia and suspiciousness",
+            "C": "Severely impaired social interaction with stereotyped behaviors and interests",
+            "D": "Persistent psychosis, diminished emotional expression, social withdrawal, disorganized speech, perceptual disturbance"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A 26-year-old woman presents with a history since her teen years of dramatic mood swings and quickly becoming depressed for hours to days in response to a separation from a loved one. She also reports rage attacks where she breaks things and screams or superficially scratches herself. Sometimes she binge drinks 1 L of hard liquor and has as many as 10 sexual partners without using condoms. Which defense mechanism is used primarily with this patient?",
+          "choices": {
+            "A": "Altruism",
+            "B": "Intellectualization",
+            "C": "Splitting",
+            "D": "Sublimation"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 40-year old male nurse who works the night shift reports an uneventful childhood and college experience. He spends most of the time alone when he is not at work and does not venture out of the house and limits his social contacts to work colleagues during his shift. He is an avid cook and spends much of his free time indoors attending to very complicated recipes with esoteric ingredients. He reports that he is quite content with his life. This patient meets criteria for which of the following conditions?",
+          "choices": {
+            "A": "Agoraphobia",
+            "B": "Avoidant personality disorder",
+            "C": "Schizoid personality disorder",
+            "D": "Schizotypal personality disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 31-year-old woman has been admitted to the psychiatric hospital after a failed suicide attempt by medication overdose. She has become attached to her PMHNP , who will be oi for the next 7 days. The patient reports that she is having urges to cut her wrists upon hearing the news. Which diagnosis best characterizes this clinical presentation?",
+          "choices": {
+            "A": "Psychosis",
+            "B": "Major depressive disorder",
+            "C": "Borderline personality disorder",
+            "D": "Histrionic personality disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "deck": "Midterm - Pediatric and Adolescent Psychiatry",
+      "cards": [
+        {
+          "question": "A 16-year-old male is being evaluated in a partial hospital program for adolescents for major depressive disorder. In addressing safety planning with the boy and his parents, they raised the question of possible suicidality with the use of selective serotonin reuptake inhibitors (SSRIs). What question should the PMHNP ask regarding the most common means of suicide and adolescence?",
+          "choices": {
+            "A": "Does the home contain ligature risks?",
+            "B": "Is the medicine cabinet locked?",
+            "C": "Are there firearms in the home?",
+            "D": "Can all the knives be secured?"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 16-year-old girl with no past medical history was referred by her primary care provider who saw her for a sports physical because she said she was depressed. During the interview the girl revealed that she has been feeling tired, sad, is crying easily, and has diiiculty falling asleep. She reports that she has also been eating a lot more and to keep from gaining weight she has been taking laxatives and on occasion makes herself vomit. She has dropped out of the yearbook committee and she is not sure she wants to go to college anymore. Which nonpharmacologic intervention is most appropriate?",
+          "choices": {
+            "A": "Group therapy",
+            "B": "Psychoanalysis",
+            "C": "Family therapy",
+            "D": "Cognitive behavioral therapy"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A 17-year-old girl with major depressive disorder single episode and bulimia nervosa is unable to actively participate in psychotherapy because she says she feels too sleepy during the day because she is unable to sleep at night. In addition, she is inattentive, irritable, finds it diiicult to concentrate, and has no desire to do anything. Which pharmacological agent is preferred for monotherapy?",
+          "choices": {
+            "A": "Atypical antipsychotic",
+            "B": "Selective serotonin reuptake inhibitor",
+            "C": "Tricyclic antidepressant",
+            "D": "Mood stabilizer"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 6-year-old boy is referred by the child study team for speech diiiculty. On examination the boy is friendly and cooperative, his speech is clear, and he uses simple sentences with a limited vocabulary. Most notably he confuses verb tenses consistently. The parents report he met most of his developmental milestones except speech, which was delayed. His clinical presentation is most consistent with which of the following?",
+          "choices": {
+            "A": "Stuttering disorder",
+            "B": "Expressive language disorder",
+            "C": "Reading disorder",
+            "D": "Writing disorder"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "When evaluating a 7-year-old girl diagnosed with expressive language disorder, which of the following assessments would be most helpful in confirming the diagnosis?",
+          "choices": {
+            "A": "",
+            "C": "Child Assessment Scale",
+            "B": "Diagnostic Interview for Children and Adolescents (DIC",
+            "D": "IQ test"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "A mother 4 months postpartum is referred to infant psychiatry as the baby has failed to gain weight over the last 2 months. He has dropped from the 75th percentile to the 50th percentile. The mother states that up until 8 weeks of age he was gaining weight and growing just fine. The baby is generally happy and continues to meet his developmental milestones. Of note, the mother has returned to work after her postpartum leave 2 months ago and the baby is in daycare 5 days a week. The mother notes that he has been increasingly spitting up for the last month soon after receiving breast milk via the bottle. She has also started to supplement with formula out of concern for his poor weight gain. This clinical description is most consistent with which type of disorder?",
+          "choices": {
+            "A": "Bulimia nervosa",
+            "B": "Pica",
+            "C": "Rumination disorder",
+            "D": "Anorexia"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 10-year-old boy is referred by the school nurse because of persistent stomachache every morning in school. In evaluating the boy, the PMHNP learned that he does not like to go to school and insists on coming home immediately, and that he sleeps in his parent’s bed at night. His clinical description is most characteristic of which of the following conditions?",
+          "choices": {
+            "A": "Social phobia",
+            "B": "Separation anxiety",
+            "C": "Reactive attachment disorder",
+            "D": ""
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 4-year-old boy is brought to the pediatric emergency department kicking and screaming while trying to run away from the sharks he fears are going to eat him. Which of the following diagnostic tests would be most appropriate?",
+          "choices": {
+            "A": "Complete blood count",
+            "B": "Comprehensive metabolic profile",
+            "C": "Urine toxicology",
+            "D": "EKG"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "The PMHNP is performing primary prevention in the high school regarding mental illness. The most common psychiatric emergency in children and adolescents is:",
+          "choices": {
+            "A": "Sexually inappropriate behavior",
+            "B": "Homicidal behavior",
+            "C": "Suicidal behavior",
+            "D": "Psychotic behavior"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 10-year-old boy who had been prescribed fluoxetine for major depressive disorder presents to the psychiatric emergency department for running into the street in front of a car on the way home from school. In the emergency department, he has been selectively mute, but the nurse practitioner student was able to elicit his desire to be dead. He has been medically cleared pending a psychiatric evaluation. What is the most common sign of major depressive disorder in children?",
+          "choices": {
+            "A": "Weight change",
+            "B": "Hypersomnia",
+            "C": "Psychomotor agitation",
+            "D": "Hopelessness"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 16-year-old boy with a history of substance use disorder reports fatigue, apathy, and anhedonia almost every day and his mother reports increasing irritability and raging behavior. The boy says he smokes marijuana daily just to feel good and is unwilling to give it up. The mother wants some sort of medication to help him feel better so that he stops smoking marijuana. The PMHNP agrees to prescribe fluoxetine 20 mg daily. What is the most common side eiect associated with this medication?",
+          "choices": {
+            "A": "Hypotension",
+            "B": "Nausea",
+            "C": "Weight gain",
+            "D": "Sedation"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 24-month-old girl is referred to psychiatry for an expressive language disorder. The mother reports that the child has not yet spoken a clear word, inconsistently follows commands, and does not play with her older brother of 4 years. In addition, the mother reports that the child has started making repetitive motions with her hands and seems to be clumsy with increasing diiiculty walking. These clinical findings are suggestive of a pervasive developmental disorder, most likely:",
+          "choices": {
+            "A": "Autism spectrum disorder",
+            "B": "Rett syndrome",
+            "C": "Cerebral palsy",
+            "D": "Intellectual disability"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "Child protective services is requested for an evaluation of a 9-month-old girl in foster care whose mother was on a methadone maintenance program and using cocaine while pregnant. The child is HIV negative and during the assessment you learn of a 3-year-old brother who is HIV positive. You are asked to recommend placement for both these children. Which of the following is best?",
+          "choices": {
+            "A": "A hospital",
+            "B": "A group home",
+            "C": "A nursing home",
+            "D": "A foster home"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "An 8-year-old boy is referred to you for evaluation for disruptive behavior in school. The teachers report that without warning the boy will make disruptive sounds or shout out in class. Other than these instances the boy is described as polite and well kempt, but restless. This clinical presentation is most consistent with which of the following disorders?",
+          "choices": {
+            "A": "Oppositional defiant disorder",
+            "B": "Conduct disorder",
+            "C": "Tourette's syndrome",
+            "D": "Separation anxiety disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "An 8-year-old boy diagnosed with leukemia is referred to child psychiatry because he is consistently displaying a flat aiect, irritability, angry acting out, and occasional physical aggression toward his 6-year-old brother. What approach should the PMHNP take when interviewing this child?",
+          "choices": {
+            "A": "Ask the child direct questions about how he feels about his disease",
+            "B": "Provide toys and allow the child to play",
+            "C": "Encourage the child to talk about whatever is on his mind",
+            "D": "Sit quietly and allow the child to talk"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 10-year-old girl is referred for evaluation of behavioral diiiculties. Her teachers report that she is easily distracted and fails to complete any class work, and often stares oi into space or tries to chat with her neighbor. Her mother reports that mornings are the most diiicult because of her general disorganization and forgetfulness. Otherwise she is socially engaged and enjoys many activities. Which of the following is the most likely diagnosis?",
+          "choices": {
+            "A": "Conduct disorder",
+            "B": "Oppositional defiant disorder",
+            "C": "Disruptive behavior",
+            "D": "Attention deficit disorder"
+          },
+          "answer": "D",
+          "explanation": ""
+        },
+        {
+          "question": "The school psychologist refers a 7-year-old girl with diiiculty reading, distractibility, and writing avoidance behaviors. The child has no diagnosed conditions, takes no medications, and met all of her developmental milestones. She loves arts and crafts and physical education. Prior to diagnosing a learning disorder, which of the following screening tests must be performed?",
+          "choices": {
+            "A": "Vision and hearing",
+            "B": "Complete history and physical exam",
+            "C": "Neurological evaluation",
+            "D": "Family history"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "An 8-year-old boy presents with nocturnal enuresis, which persists despite behavioral interventions including eliminating fluid intake in the evening, scheduled awakening at night to use the bathroom, and a urine alarm. Which of the following medications is most appropriate?",
+          "choices": {
+            "A": "Trazodone",
+            "B": "Imipramine",
+            "C": "Fluoxetine",
+            "D": "Methylphenidate"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "The PMHNP is evaluating a 22-month-old girl whose mother is concerned about aggressive behavior toward her 4-month-old brother. The mother states that her daughter is often angry and irritable with directed hostility toward the baby. Which of the following responses is best?",
+          "choices": {
+            "A": "You should ignore your daughter's behavior and it will pass",
+            "B": "Your daughter's behavior is normal for her age",
+            "C": "Each day, schedule some time for you and your daughter to spend together without the baby",
+            "D": "Explain to your daughter that the baby needs more attention than she does right now"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "Which of the following developmental milestones should a 2-year-old child be able to accomplish?",
+          "choices": {
+            "A": "Ride a tricycle",
+            "B": "Copy a circle",
+            "C": "Identify age and gender",
+            "D": "Copy a square"
+          },
+          "answer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "deck": "Midterm - Mood Disorders and Psychosis",
+      "cards": [
+        {
+          "question": "A 68-year-old man with no past psychiatric history reports that for the last 2 weeks he believes his internal organs have been removed, and that he has no mouth and therefore does not need to eat or drink. Which of the following best describes the patient’s condition?",
+          "choices": {
+            "A": "Schizophrenia",
+            "B": "Capgras syndrome",
+            "C": "Cotard's syndrome",
+            "D": "Folie a deux"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 50-year-old woman with no past psychiatric history is evaluated for anhedonia, fatigue, apathy, and psychomotor agitation. She tells you that she has been refusing care from her husband because he has been replaced by an alien from outer space and only appears like her husband. Which of the following describes this psychotic depression?",
+          "choices": {
+            "A": "Capgras syndrome",
+            "B": "Cotard's syndrome",
+            "C": "Folie a deux 172",
+            "D": "Schizophrenia"
+          },
+          "answer": "A",
+          "explanation": ""
+        },
+        {
+          "question": "A 35-year-old woman 7 days postpartum is brought by the mobile crisis team to the ED at the request of the husband. The patient has no past psychiatric history and takes only prenatal vitamins. He reports that his wife has not been sleeping and has noticed her walking around their apartment in the middle of the night crying and talking to nobody. In addition, she has been ignoring the baby, but last night she told him that it was “Lucifer’s seed and it must be destroyed.” Which of the following is the most likely diagnosis?",
+          "choices": {
+            "A": "Delusional disorder",
+            "B": "Depression with psychosis",
+            "C": "Schizoaffective disorder",
+            "D": "Schizophrenia"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 48-year-old divorced Black woman is admitted to the inpatient psychiatric unit after a serious suicide attempt by overdosing on acetaminophen. She has been admitted seven times with similar presentations after failing multiple treatments with antidepressants. She has been unable to work and has lost interest in all activities she once enjoyed. For the last 2 weeks she has had increased sleep latency, early morning awakening, difficulty concentrating, fatigue, hopelessness, and poor appetite. Which of the following factors would make the PMHNP recommend electroconvulsive therapy (ECT) in lieu of other medication trials?",
+          "choices": {
+            "A": "Poor compliance with medications",
+            "B": "History of bipolar illness",
+            "C": "Melancholic depression with a history of poor response to medications",
+            "D": "Persistent depression with psychotic symptoms"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A patient meeting criteria for major depressive disorder is prescribed fluoxetine 20 mg daily. The PMHNP is reviewing the chart for a meritorious negligence claim. Which of the following conditions should have been documented and excluded from the differentials before prescribing a selective serotonin reuptake inhibitor (SSRI)?",
+          "choices": {
+            "A": "Panic disorder",
+            "B": "Obsessive-compulsive disorder",
+            "C": "Bipolar disorder",
+            "D": "Generalized anxiety disorder"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "The mother of a 19-year-old male is convinced his bipolar condition was caused by his drinking and drug use. Which of the following statements is true regarding bipolar disorder?",
+          "choices": {
+            "A": "Patients with bipolar disorder have a better prognosis than patients with unipolar depression.",
+            "B": "Patients with bipolar disorder usually do not require lifelong treatment compared to patients with major depression if they abstain from drugs and alcohol.",
+            "C": "Bipolar disorder has a stronger genetic etiology than major depression.",
+            "D": "Bipolar disorder is more common than depression in the United States."
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A patient has been prescribed sertraline 50 mg daily for the past year without adverse effects and remission of symptoms. The patient has missed the last two appointments but leaves a message that he feels “fantastic!” The wife called to reschedule a follow-up appointment, saying he has been giddy lately, emotionally labile, and spending money so frivolously that their account has been overdrawn. During the appointment the patient becomes hostile and tells the PMHNP that he is a phony, and not even a real doctor, and is having an affair with his wife. The patient is uninterruptible, with pressured speech. What pharmacological change is indicated?",
+          "choices": {
+            "A": "Start lithium, increase sertraline",
+            "B": "Start valproic acid, stop sertraline",
+            "C": "Start valproic acid",
+            "D": "Stop sertraline"
+          },
+          "answer": "B",
+          "explanation": ""
+        },
+        {
+          "question": "A 21-year-old man had his first drink at his birthday party with friends last night. He presented the following morning to the emergency department with psychomotor agitation, cognitive impairment, depressed mood, flat affect, and anhedonia. His heart rate is 110, his blood pressure is 90/60, and he complains of abdominal pain. He received 2 L of normal saline IV and is referred to psychiatry for evaluation of mood disorder. Which of the following tests should the consulting PMHNP order given these symptoms?",
+          "choices": {
+            "A": "Blood alcohol level",
+            "B": "Urinalysis",
+            "C": "Urinary porphobilinogen",
+            "D": "Acetaminophen level"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "The certified nurse midwife is evaluating a 29-year-old woman 2 weeks postpartum and finds her neglecting her self-care and minimally attentive to the baby and will not allow anyone else to care for the baby. During the visit a PMHNP is able to provide webcam consultation and liaison services. Based on the information provided, what is the priority in the management of this patient?",
+          "choices": {
+            "A": "Electronically prescribe an antipsychotic",
+            "B": "Electronically prescribe a mood stabilizer",
+            "C": "Admit the patient to the hospital",
+            "D": "Electronically prescribe an antidepressant"
+          },
+          "answer": "C",
+          "explanation": ""
+        },
+        {
+          "question": "A 40-year-old senior associate in a law firm presents for care complaining of fatigue and poor motivation to the degree that he has been avoiding work. His boss has encouraged him to take some time off. The patient also reports that his wife recently kicked him out of the house after discovering his third extramarital affair. For the last 2 weeks he has been sleeping 16 hours a day, poor appetite, and has overdrawn his account. He says that this is most unlike him in that he used to be able to get by on 5 hours of sleep a night, party hard, and work harder. What is the most likely diagnosis for this patient?",
+          "choices": {
+            "A": "Bipolar 1",
+            "B": "Bipolar 2",
+            "C": "Major depressive disorder",
+            "D": "Narcissistic personality disorder"
+          },
+          "answer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "deck": "Review Questions",
+      "cards": [
+        {
+          "question": "The purpose of the American Nurses Association’s Psychiatric–Mental Health Nursing: Scope and Standards of Practice is to",
+          "choices": {
+            "A": "Define the role and actions for the NP",
+            "B": "Establish the legal authority for the prescription of psychotropic medications",
+            "C": "Define the legal statutes of the role of the PMHNP",
+            "D": "Define the differences between the physician role and the NP role2."
+          },
+          "answer": "A",
+          "explanation": "The ANA ’s Psychiatric–Mental Health Nursing: Scope and Standards of Practice defines the role and actions of the nurse practitioner."
+        },
+        {
+          "question": "Primary prevention care practices are an essential aspect of the PMHNP role. Which of the following is the best example of a primary prevention care strategy for community behav-ioral health?",
+          "choices": {
+            "A": "Aftercare program for chronically mentally ill clients recently discharged from the hospital",
+            "B": "Court-ordered counseling for abusive parents",
+            "C": "24-hour crisis hotlines",
+            "D": "Parenting skills classes for pregnant adolescents 3."
+          },
+          "answer": "D",
+          "explanation": "Information reduces incidence of disease."
+        },
+        {
+          "question": "The trend in legal rulings on cases involving mental illness over the past 25 years has been!to",
+          "choices": {
+            "A": "Encourage juries to find defendants not guilty by reason of insanity",
+            "B": "Protect the person’s freedoms or rights when he or she is committed to a mental hospital",
+            "C": "Place increasing trust in mental health professionals to make good and ethical decisions",
+            "D": "Decrease the “red tape” associated with commitments so that commitments are faster and easier4."
+          },
+          "answer": "B",
+          "explanation": "Identifies the trend of ensuring the protection of individual civil liberties for psychiatric clients."
+        },
+        {
+          "question": "Mr. Smithers, an involuntarily hospitalized patient experiencing psychotic symptoms, refuses to take any of his ordered medication because he believes “Jesus Christ told me I am the prophet and must fast for a year. ” Your actions should be based on your knowledge of which of the following?",
+          "choices": {
+            "A": "Psychiatric clients cannot refuse treatment",
+            "B": "Psychiatric clients do not always know what is good for them",
+            "C": "Psychiatric clients can refuse treatment",
+            "D": "Psychiatric clients cannot be trusted to make good healthcare decisions and, therefore, the nurse’s best clinical judgment should guide actions5."
+          },
+          "answer": "C",
+          "explanation": "As with any client, psychiatric clients can refuse treatment un-less a legal process resulting in involuntary commitment or mandatory court order for treatment has been obtained."
+        },
+        {
+          "question": "Which of the following statements best reflects the difference between the nurse–client (N–C) relationship and a social relationship?",
+          "choices": {
+            "A": "In the N–C relationship, the primary focus is on the client and the client’s needs.",
+            "B": "Goals in the N–C relationship are deliberately left vague and unspoken so that the client can work on any issue.",
+            "C": "In the N–C relationship, the nurse is solely responsible for making the relationship work.",
+            "D": "In the N–C relationship, there is no place for social interaction. 6."
+          },
+          "answer": "A",
+          "explanation": "Social relationships are mutual interpersonal relationships in which the needs of both parties are addressed. The N–C relationship is most con-cerned with meeting the needs of the client."
+        },
+        {
+          "question": "A community has an unusually high incidence of depression and drug use among the teen-age population. The public health nurses decide to address this problem, in part, by modify-ing the environment and strengthening the capacities of families to prevent the develop-ment of new cases of depression and drug use. What is this is an example of?",
+          "choices": {
+            "A": "Primary prevention",
+            "B": "Secondary prevention",
+            "C": "Tertiary prevention",
+            "D": "Protective factorial prevention 7."
+          },
+          "answer": "A",
+          "explanation": "This action focuses on interventions designed to reduce the incidence of new cases of disease."
+        },
+        {
+          "question": "Mrs. Kemp is voluntarily admitted to the hospital. After 24 hours, she states she wishes to leave because “this place can’t help me. ” The best nursing action that reflects the legal right of this client is",
+          "choices": {
+            "A": "Discharge the client",
+            "B": "Explain that the client cannot leave until you can complete further assessment",
+            "C": "Allow the client to leave but have her sign forms stating she is leaving against medical advice",
+            "D": "Immediately start the paperwork to commit the client and to allow you to treat her against her wishes 8."
+          },
+          "answer": "B",
+          "explanation": "Almost every state allows for a brief period of detainment to as-sess a client for dangerousness to self or others before allowing the client to leave a hospital setting, even if the admission was voluntary."
+        },
+        {
+          "question": "In forming a therapeutic relationship with clients, the PMHNP must consider developing many characteristics that are known to be helpful in relationship-building. Which of the fol-lowing is an essential part of building a therapeutic relationship?",
+          "choices": {
+            "A": "Collecting a family history",
+            "B": "Like-mindedness",
+            "C": "Authenticity",
+            "D": "Accuracy in assessment 9."
+          },
+          "answer": "C",
+          "explanation": "Authenticity. Being genuine, honest, and respectful are essential elements in establishing a working relationship with any client. Like-mindedness is not a part of the therapeutic relationship. Although an important aspect of the PMHNP role, collecting a family history and accuracy in assessment does not in and of itself facilitate relationship-building."
+        },
+        {
+          "question": "According to the DSM-5, which of the following is true? (Ch. 3)",
+          "choices": {
+            "A": "A mental disorder is equivalent to the need for treatment.",
+            "B": "Diagnostic criteria are used to inform clinical judgment.",
+            "C": "Socially deviant behavior is considered a mental disorder.",
+            "D": "A culturally expected response to a stressor is not a mental disorder.10."
+          },
+          "answer": "D",
+          "explanation": "All DSM-5 disorders need to be made taking a person’s culture into account. A cultural expression of a response to grief, loss, or stress is not con-sidered a DSM-5 diagnosis."
+        },
+        {
+          "question": "Mrs. French has been in individual therapy for 3 months. She has shown much growth and improvement in her functioning and insight and is to discontinue services within the next few weeks. In the next session, after you discuss service termination, she suddenly begins to demonstrate the original symptoms that had brought her to treatment initially. She is now hesitant to discharge, wants to continue services, and is displaying an increase in regressive defense mechanisms. What is the best explanation for Ms. French’s behavior?",
+          "choices": {
+            "A": "An exacerbation of her symptoms related to stress",
+            "B": "The normal cyclic nature of chronic mental health symptoms",
+            "C": "A sign of normal resistance to termination seen in the termination phase of therapy",
+            "D": "A sign of pathological attachment to the therapist that must be addressed 11."
+          },
+          "answer": "C",
+          "explanation": "Clients frequently display resistance and regression at the termi-nation of a meaningful therapeutic process. The PMHNP is responsible for planning an effective termination and monitoring clients during the termination period."
+        },
+        {
+          "question": "A client is displaying low self-esteem, poor self-control, self-doubt, and a high level of de-pendency. These behaviors indicate developmental failure of which of the following stages of development:",
+          "choices": {
+            "A": "Infancy",
+            "B": "Early childhood",
+            "C": "Late childhood",
+            "D": "School age12."
+          },
+          "answer": "B",
+          "explanation": "These signs indicate developmental failure of early childhood."
+        },
+        {
+          "question": "Mr. Thompson has been forgetful lately, for example, forgetting where he has placed his keys or what time appointments are scheduled, and he has stated that he thinks these are just random behaviors that have no particular meaning. Which Freudian-based psychodynam-ic principle assumes that all behavior and actions are purposeful?",
+          "choices": {
+            "A": "Pleasure principle",
+            "B": "Psychic determinism principle",
+            "C": "Reality principle",
+            "D": "Unconsciousness principle13."
+          },
+          "answer": "B",
+          "explanation": "The psychic determinism principle states that all behavior has purpose and meaning, often unconscious in nature, and that no behaviors occur randomly or by coincidence."
+        },
+        {
+          "question": "An example of a mature, healthy defense mechanism is",
+          "choices": {
+            "A": "Denial",
+            "B": "Rationalization",
+            "C": "Repression",
+            "D": "Suppression 14."
+          },
+          "answer": "D",
+          "explanation": "Suppression is the only defense mechanism listed in which the client channels conflicting energies into growth-promoting activities."
+        },
+        {
+          "question": "Mr. Johnson is a 54-year-old client you have been seeing for several weeks in therapy. While discussing his current concerns of marital stress, he lies on the floor and assumes the fetal position. This is most likely an example of",
+          "choices": {
+            "A": "Immature regressive defense mechanism",
+            "B": "Denial of reality",
+            "C": "Immature fantasy defense mechanism",
+            "D": "Repressive behavior15."
+          },
+          "answer": "A",
+          "explanation": "Immature regressive defense mechanism is a return to a behav-ior common to an earlier stage of development."
+        },
+        {
+          "question": "Defense mechanisms are best viewed as a function of the ego",
+          "choices": {
+            "A": "To alert us to harm and danger",
+            "B": "To alert us to problems",
+            "C": "Used to resolve a conflict",
+            "D": "Used to protect the id16."
+          },
+          "answer": "C",
+          "explanation": "Defense mechanisms are a function of the ego used to resolve a conflict."
+        },
+        {
+          "question": "One of the health care changes that has occurred as a result of the affordable care act (ACA) is that doctors/hospitals/clinic groups or health systems are coming together and assum-ing the responsibility for quality care to large groups of individuals insured by Medicare. The health care clinics/systems doctors or hospitals that join together are called which of the following?",
+          "choices": {
+            "A": "Health Maintenance Organization (HMO)",
+            "B": "Preferred Provider Network (PPO)",
+            "C": "Accountable Care Organization (ACO)",
+            "D": "Individual Health Plan (IHP)17 ."
+          },
+          "answer": "C",
+          "explanation": "ACO’s are groups of doctors or other health care providers who voluntarily come together and assume the care provided to Medicare patients."
+        },
+        {
+          "question": "Health care economics is concerned with making decisions so the benefits outweigh the cost of resource utilization. What are two concepts that healthcare economics is concerned with in regard to fair distribution of resources and allocation?",
+          "choices": {
+            "A": "Equity and efficiency",
+            "B": "Cost and benefits",
+            "C": "Opportunity and waste",
+            "D": "Affordable and quality18."
+          },
+          "answer": "A",
+          "explanation": "Health care efficiency is making risk and benefit decision about how care resources are allocated and equity is ensuring that there is a fair distribu-tion of the resources. 411REVIEW QUESTION ANSWERS"
+        },
+        {
+          "question": "What four elements need to be present for a malpractice lawsuit to be filed?",
+          "choices": {
+            "A": "Beneficence, Non-Maleficence, Truthfulness, and Justice",
+            "B": "Duty of care, Breach of standard of care, Injury, and Injury must be related to breach of the standard of care",
+            "C": "Abandonment, Breach of care, Violation of ethics, and Reimbursement for poor care",
+            "D": "Breach of standard of care, Injury, Deceit, and Malpractice19."
+          },
+          "answer": "B",
+          "explanation": "The four elements that must be satisfied for malpractice to have occurred are a duty of care between clinician and patient, breach of standard of care, an injury to the patient, and the patient’s injury must be related to the clinician’s breach of care."
+        },
+        {
+          "question": "Mary is a Psychiatric–Mental Health Nurse Practitioner (PMHNP) who is working in a hospitalist role. Mary has encountered over five incidences in which attending psychiatrists and medical residents have been demeaning to nursing staff and not answering calls in the middle of the night or telling the nursing staff to write orders and the MD would sign off in the a.m. Mary is concerned about errors and wants to improve quality, reduce errors to promote safety. What concept is Mary employing?",
+          "choices": {
+            "A": "Bullying",
+            "B": "Abuse",
+            "C": "Civil Disobedience",
+            "D": "Just Culture 20."
+          },
+          "answer": "D",
+          "explanation": "The ANA has a position statement that nurses are responsible for developing health care settings that include just culture initiatives understanding that human error can cause error and harm by creating an open and fair environment."
+        },
+        {
+          "question": "The role of neurotransmitters in the central nervous system is to function as",
+          "choices": {
+            "A": "A communication medium",
+            "B": "A gatekeeper for transmissions",
+            "C": "A building block for amino acids",
+            "D": "An agent to break down enzymes21 ."
+          },
+          "answer": "A",
+          "explanation": "Neurotransmitters in the central nervous system function as a communication medium."
+        },
+        {
+          "question": "Serotonin is produced in which of the following locations:",
+          "choices": {
+            "A": "Locus ceruleus",
+            "B": "Nucleus basalis",
+            "C": "Raphe nuclei",
+            "D": "Substantia nigra22."
+          },
+          "answer": "C",
+          "explanation": "Serotonin is produced in the raphe nuclei."
+        },
+        {
+          "question": "Dopamine is produced in which of the following locations:",
+          "choices": {
+            "A": "Locus ceruleus",
+            "B": "Nucleus basalis",
+            "C": "Raphe nuclei",
+            "D": "Substantia nigra 23."
+          },
+          "answer": "D",
+          "explanation": "Dopamine is produced in the substantia nigra."
+        },
+        {
+          "question": "A client presents with complaints of changes in appetite, feeling fatigued, problems with sleep–rest cycle, and changes in libido. What is the neuroanatomical area of the brain that is responsible for the normal regulation of these functions?",
+          "choices": {
+            "A": "Thalamus",
+            "B": "Hypothalamus",
+            "C": "Limbic system",
+            "D": "Hippocampus24."
+          },
+          "answer": "B",
+          "explanation": "Appetite, sleep, and libido are regulated by the hypothalamus."
+        },
+        {
+          "question": "In considering whether to order an MRI of the head for a client, which of the following would be a contraindication to this diagnostic test?",
+          "choices": {
+            "A": "Prosthetic limb",
+            "B": "History of head trauma",
+            "C": "Pacemaker",
+            "D": "Pregnancy25."
+          },
+          "answer": "C",
+          "explanation": "A client with a pacemaker should not receive an MRI of the head."
+        },
+        {
+          "question": "The primary excitatory neurotransmitter is",
+          "choices": {
+            "A": "GABA",
+            "B": "Serotonin",
+            "C": "Dopamine",
+            "D": "Glutamate 26."
+          },
+          "answer": "D",
+          "explanation": "Glutamate is the primary excitatory neurotransmitter."
+        },
+        {
+          "question": "A client who is experiencing difficulties with working memory, planning and prioritizing, insight into his problems, and impulse control presents for assessment. In planning his care, the PMHNP should apply his or her knowledge that these symptoms represent problems with the",
+          "choices": {
+            "A": "Frontal lobe",
+            "B": "Temporal lobe",
+            "C": "Parietal lobe",
+            "D": "Occipital lobe 27 ."
+          },
+          "answer": "A",
+          "explanation": "Problems with working memory, planning and prioritizing, insight into problems, and impulse control indicate a problem in the frontal lobe."
+        },
+        {
+          "question": "The concept of target symptom identification is best explained as",
+          "choices": {
+            "A": "Identification of the major clinical presentation of the client",
+            "B": "Identification of specific, precise, and individualized symptoms reasonably expected to improve with medication",
+            "C": "Identification of the secondary messenger system syndrome",
+            "D": "Intentional modulation of synaptic pathways28."
+          },
+          "answer": "B",
+          "explanation": "Target symptom identification is the identification of specific, precise, and individualized symptoms reasonably expected to improve with a given medication."
+        },
+        {
+          "question": "The goal of the psychiatric assessment process performed by the PMHNP is to",
+          "choices": {
+            "A": "Gain an understanding of the life experiences of the client",
+            "B": "Correctly diagnose the client",
+            "C": "Identify the mental health needs of the client",
+            "D": "Be able to communicate with other staff about the client’s health needs29."
+          },
+          "answer": "C",
+          "explanation": "Although diagnosis is an important aspect of the assessment process, the assessment ultimately should identify the needs of the client."
+        },
+        {
+          "question": "Mr. Johnson is a client newly admitted to an inpatient psychiatric hospital. The PMHNP on call at the facility plans to perform the initial intake assessment and diagnostic process. Mr. Johnson asks to please talk in his room because, he says, “People make me nervous. ” His room is at the end of the hallway and is the farthest away from the nursing station. The PMHNP’s action should be based on awareness that the best location to do the assessment!is",
+          "choices": {
+            "A": "In Mr. Johnson’s room, because it is least noisy and most comfortable for him, thus facilitating data collection",
+            "B": "In the dayroom, which is full of people, to observe his interactions with other people",
+            "C": "In a quiet place, but public enough to get assistance with client care should it be re-quired during the assessment",
+            "D": "In the treatment room with the door closed, a neutral location30."
+          },
+          "answer": "C",
+          "explanation": "One PMHNP role is to control the milieu as an aspect of as-sessment, so the PMHNP should choose a quiet place that is public enough to get assistance with client care should it be required during the assessment."
+        },
+        {
+          "question": "Which communication technique is the PMHNP using in the following situation? Client: “Sorry I was late. I didn’t realize what time it was. ” PMHNP: “This is the third time now that you have been late for our sessions. I am wondering how committed you are to our working on your problems. ”",
+          "choices": {
+            "A": "Theming",
+            "B": "Recognizing",
+            "C": "Validating",
+            "D": "Sequencing31 ."
+          },
+          "answer": "B",
+          "explanation": "This exchange is an illustration of the technique of recognizing."
+        },
+        {
+          "question": "In assessing a client, you ask him the meaning of the proverb “People who live in glass houses shouldn’t throw stones. ” He replies, “Because it will break the windows. ” The cor-rect interpretation of this findings is",
+          "choices": {
+            "A": "Client has a probable mood disorder",
+            "B": "Client has a probable anxiety disorder",
+            "C": "Client has limited intellectual ability",
+            "D": "Unable to interpret the finding without knowing the client’s age 32."
+          },
+          "answer": "D",
+          "explanation": "The answer demonstrates concrete thought processes, which are normal in persons younger than age 12 but are abnormal after age 12. To inter-pret the finding, the PMHNP must know the age of the client."
+        },
+        {
+          "question": "The PMHNP is planning to work with a client using an individual therapy model of care. During the first session, the client makes the following statement: “This is the third time my son has run away. I’ve grounded him, taken away his bike, even tried cutting off his allow-ance and confining him to his room. What should I do now?” The most therapeutic response for the PMHNP to make is",
+          "choices": {
+            "A": "“I wonder if confining him to his room was abusive?”",
+            "B": "“Maybe that depends on what you are trying to accomplish. ”",
+            "C": "“Perhaps talking to his friends and teachers would help. ”",
+            "D": "Remain silent33."
+          },
+          "answer": "B",
+          "explanation": "This response will be the most therapeutic in moving forward with the client."
+        },
+        {
+          "question": "A client says to the PMHNP , “Some days life is just not worth it. All my wife and I ever do is fight and scream. Things at home would be calmer and simpler if I just wasn’t there any-more. ” The most therapeutic response for the PMHNP to make is",
+          "choices": {
+            "A": "“Do you mean that you are thinking about leaving your wife and moving out?”",
+            "B": "“Tell me what you mean by ‘it would be simpler if you just weren’t there anymore. ’”",
+            "C": "“So you are thinking suicide might be an option for you?”",
+            "D": "Remain silent34."
+          },
+          "answer": "B",
+          "explanation": "This response is the most therapeutic, allowing the client to further clarify and express feelings."
+        },
+        {
+          "question": "Mrs. Shea has come to the mental health center seeking treatment for depression. She has a history of a suicide attempt by overdose 1 month ago. She was started on imipramine (tri-cyclic antidepressant [TCA]) after that event but stopped taking the medication 1 week later because it “did no good. ” The PMHNP meets with Mrs. Shea to plan care with her. Which of the following is the most appropriate initial action?",
+          "choices": {
+            "A": "Asking Mrs. Shea how to help her",
+            "B": "Providing client teaching about the long time frame for TCAs to work",
+            "C": "Contracting with Mrs. Shea for 6 sessions of individual therapy",
+            "D": "Providing Mrs. Shea with feedback about how suicide might affect her family35."
+          },
+          "answer": "A",
+          "explanation": "Asking the client how to help is an aspect of assessment—all other answers are aspects of interventions, which are not initial actions of the PMHNP ."
+        },
+        {
+          "question": "In completing the PMHNP assessment for the Mrs. Shea, the most appropriate lab test for the PMHNP to order at this time is",
+          "choices": {
+            "A": "CBC",
+            "B": "TSH",
+            "C": "Liver function tests",
+            "D": "Electrolyte panel36."
+          },
+          "answer": "C",
+          "explanation": "Client overdosed and then was placed on a medication that af-fects the liver. The PMHNP needs to assess the client’s liver function as an aspect of care planning for her."
+        },
+        {
+          "question": "A client comes into the clinic with a longstanding history of depression and chronic renal fail-ure. He is on an antidepressant and a diuretic and complains of increased depression, mild confusion, irritability, and overall apathy from being too tired to do anything. The best initial PMHNP action to take at this time is",
+          "choices": {
+            "A": "Increase his dose of antidepressant medication to better capture symptoms",
+            "B": "Change him to another antidepressant for better symptom control",
+            "C": "Augment his antidepressant with an atypical antipsychotic medication",
+            "D": "Order a comprehensive metabolic panel 37 ."
+          },
+          "answer": "D",
+          "explanation": "Client symptoms are consistent with electrolyte imbalance and a physical cause of his symptoms must be ruled out first."
+        },
+        {
+          "question": "Sarah presents for her initial intake appointment with complaints of depression. She is be-ing treated for hypertension and asthma by her primary care provider. Knowing that certain medications can cause or exacerbate depression, you obtain a complete medication history. Which of the following medications is known to exacerbate or cause depression?",
+          "choices": {
+            "A": "Omeprazole",
+            "B": "Propranolol",
+            "C": "Levothyroxine",
+            "D": "Clarithromycin38."
+          },
+          "answer": "B",
+          "explanation": "Beta blockers can cause or exacerbate depression. 412 PSYCHIATRIC-MENTAL HEALTH NURSE PRACTITIONER REVIEW AND RESOURCE MANUAL, 4TH EDITION"
+        },
+        {
+          "question": "When treating older adults, you should keep in mind that they are more sensitive to issues of drug toxicity because of which of the following reasons?",
+          "choices": {
+            "A": "Decreased body fat",
+            "B": "Increased liver capacity",
+            "C": "Decreased protein binding",
+            "D": "Increased muscle concentration39."
+          },
+          "answer": "C",
+          "explanation": "Older adults usually have decreased protein levels. Most psycho-tropic medications are highly protein-bound. It is the unbound (free) concentration of the drug that is active; the bound concentration of the drug is inert. Thus, with decreased protein available for binding, more free (active) drug remains in the body, which then predisposes older adults to toxicity."
+        },
+        {
+          "question": "Which known teratogenic effects can be caused by the common psychotropic medications divalproex and lithium?",
+          "choices": {
+            "A": "Divalproex—Epstein anomaly; lithium—cleft palate",
+            "B": "Divalproex—spina bifida; lithium—Epstein anomaly",
+            "C": "Divalproex—limb malformations; lithium—seizure disorder",
+            "D": "Divalproex—mental retardation; lithium—spina bifida40."
+          },
+          "answer": "B",
+          "explanation": "Divalproex can cause spina bifida and lithium can cause Epstein’s anomaly."
+        },
+        {
+          "question": "The study of what the body does to drugs is called",
+          "choices": {
+            "A": "Pharmacodynamics",
+            "B": "Pharmacology",
+            "C": "Pharmacokinetics",
+            "D": "Distribution41 ."
+          },
+          "answer": "C",
+          "explanation": "Pharmacokinetics is the study of what the body does to drugs."
+        },
+        {
+          "question": "Your client Sam is being treated for panic disorder with agoraphobia. He currently is being prescribed paroxetine (Paxil CR, 37 .5 mg q.d.) and clonazepam (Klonopin, 0.5 mg q.d., p.r.n.). He has been on clonazepam for 2 years and admits to needing 4 pills to achieve the same effect that 1 pill initially produced. This is possibly an example of which process?",
+          "choices": {
+            "A": "Kindling",
+            "B": "Addiction",
+            "C": "Tolerance",
+            "D": "Potency42."
+          },
+          "answer": "C",
+          "explanation": "Tolerance means needing more to achieve the same effect."
+        },
+        {
+          "question": "Why is group therapy beneficial?",
+          "choices": {
+            "A": "It assists the client to focus on self",
+            "B": "It lacks theoretical frameworks",
+            "C": "It enables participants to acquire therapeutic factors",
+            "D": "It is always time limited 43."
+          },
+          "answer": "D",
+          "explanation": "Group therapy is beneficial because it increases social skills, is cost-effective, and enables participants to acquire the curative factors."
+        },
+        {
+          "question": "Which of the following is the best rationale for using cognitive behavioral therapy?",
+          "choices": {
+            "A": "Recognize and change his or her automatic thoughts",
+            "B": "See reality as you see it",
+            "C": "Change his or her reality by changing his or her environment",
+            "D": "Recognize and accept that automatic thoughts suggest delusional thinking44."
+          },
+          "answer": "A",
+          "explanation": "Cognitive behavioral therapy helps clients recognize and change their automatic thoughts."
+        },
+        {
+          "question": "When working with a dysfunctional family, you find that the father, Jim, worries excessively and is resistant to change. You give Jim a paradoxical directive to worry extremely well for 1 hour per day, knowing that he will likely be noncompliant, and thus change will occur. With this technique, you are using which type of therapy?",
+          "choices": {
+            "A": "Experiential therapy",
+            "B": "Structural therapy",
+            "C": "Strategic therapy",
+            "D": "Solution-focused therapy45."
+          },
+          "answer": "C",
+          "explanation": "Paradoxical directives are used in strategic therapy."
+        },
+        {
+          "question": "Which of the following best describes homeostasis in a family system?",
+          "choices": {
+            "A": "Choices a family makes to keep the peace",
+            "B": "Balance or stability that the family returns to despite its dysfunction",
+            "C": "Need for change and balance in a family",
+            "D": "Calm in a family that returns after a crisis46."
+          },
+          "answer": "B",
+          "explanation": "Homeostasis is balance or stability that the family returns to despite its dysfunction."
+        },
+        {
+          "question": "In an attempt to bring the client toward the goal he or she is working on, you ask the client, “If a miracle were to happen tonight while you slept, and you awoke in the morning and the problem no longer existed, how would you know, and what would be different?” This technique is used in which type of therapy?",
+          "choices": {
+            "A": "Behavioral therapy",
+            "B": "Solution-focused therapy",
+            "C": "Adlerian therapy",
+            "D": "Existential therapy47 ."
+          },
+          "answer": "B",
+          "explanation": "Miracle questions are used in solution-focused therapy."
+        },
+        {
+          "question": "Ms. Thomas has been diagnosed with major depressive disorder (MDD) and is placed on fluoxetine 20 mg for her depression. For the PMHNP to effectively monitor her use of the medication, which of the following actions should be part of ongoing care?",
+          "choices": {
+            "A": "Use of a standardized rating scale of depression",
+            "B": "Monitoring for potential abuse of the medication",
+            "C": "Monitoring of labs for renal functioning",
+            "D": "Monitoring for potential cardiac side effects 48."
+          },
+          "answer": "A",
+          "explanation": "The use of a standardized rating scale will allow the PMHNP to monitor the level of client symptoms and to evaluate the efficacy of the medication."
+        },
+        {
+          "question": "Which of the following is the best reason for considering the SSRI among the first-line drug choices for treating major depression?",
+          "choices": {
+            "A": "Need to stair-step initial dosages",
+            "B": "Sedating and calming effect of the medication",
+            "C": "Safe use in suicidal overdose clients",
+            "D": "Ability to obtain therapeutic serum drug levels49."
+          },
+          "answer": "C",
+          "explanation": "SSRIs are considered among the first-line medications used to treat depression because of safety in suicidal overdose clients."
+        },
+        {
+          "question": "A 23-year-old woman is brought into the ER after attempting suicide by cutting her wrists. Which nursing action by the PMHNP would be of highest priority initially?",
+          "choices": {
+            "A": "Assess her coping behaviors",
+            "B": "Assess her current level of suicidality",
+            "C": "Take her vital signs",
+            "D": "Assess her health history50."
+          },
+          "answer": "C",
+          "explanation": "The PMHNP needs to ensure that her suicide attempt has not led to medical instability."
+        },
+        {
+          "question": "Which of the following interventions by the PMHNP for a person experiencing ataque de nervios demonstrates culturally informed care?",
+          "choices": {
+            "A": "Offering brief supportive psychotherapy",
+            "B": "Offering a brief hospitalization",
+            "C": "Requesting a family member act as an interpreter",
+            "D": "Offering low-dose, short-term anxiolytic medication51 ."
+          },
+          "answer": "A",
+          "explanation": "The literature suggests that although short-term anxiolytic medication may be offered in an emergency room setting, ataque de nervios is best treated by brief supportive therapy by a Spanish-speaking Latino therapist."
+        },
+        {
+          "question": "The PMHNP working at a student mental health clinic has now been working with a fresh-man student for several weeks. The PMHNP learns that the student considers himself shy. He tells the NP that he has always felt uncomfortable in social situations or when he has to do oral presentations in class. He had few friends up until his senior year of high school when he discovered he could enjoy himself if he “had a couple of drinks before going out. ” He has continued this pattern in college and now occasionally drinks “2 to 3 beers” on weekends as well. According to the DSM-5, does the student have a mental disorder?",
+          "choices": {
+            "A": "Yes, alcohol use disorder, mild",
+            "B": "Yes, generalized anxiety disorder",
+            "C": "No, at this point, the student does not meet criteria for a mental disorder.",
+            "D": "Yes, adjustment disorder with mixed features52."
+          },
+          "answer": "C",
+          "explanation": "The student does not meet criteria for alcohol use or other disorder at this point, but if he does not learn alternative coping skills to deal with his shyness, he is at risk of developing an alcohol use disorder."
+        },
+        {
+          "question": "Jason misses several appointments. The PMHNP notes she feels resentful toward Jason and is struggling with how to respond to Jason when he finally comes in for his appoint-ment. Which of the following demonstrates a therapeutic response?",
+          "choices": {
+            "A": "“Jason, since you have missed several appointments, we are closing your case. ”",
+            "B": "“Jason, it’s pretty clear to me that you don’t want to be here. ”",
+            "C": "“Jason, you are ambivalent about seeking treatment. ”",
+            "D": "“Jason, help me understand what’s going on so we can figure out how to proceed. ” 53."
+          },
+          "answer": "D",
+          "explanation": "Although the PMHNP’s resentment is in response to actual behavior by Jason (his missing several appointments), clarifiying what is going on for him, his expectations for treatment and the PMHNP’s (and the clinic’s) expectations in a non-judgemental manner will help to develop a therapeutic alliance."
+        },
+        {
+          "question": "Which is true about pharmacologic treatment of anxiety in older adults?",
+          "choices": {
+            "A": "Course of treatment is generally shorter than for younger adults.",
+            "B": "Drugs that are highly oxidized are more unpredictable than drugs that are mostly conjugated.",
+            "C": "The therapeutic dose of SSRIs is generally lower than for young adults.",
+            "D": "Highly lipophilic drugs have a more linear elimination in older adults.54."
+          },
+          "answer": "B",
+          "explanation": "Liver enzyme functioning (among other things) diminishes as we age. All of the other statements are false."
+        },
+        {
+          "question": "A client returns for a follow-up appointment 3 weeks after starting on fluoxetine 20 mg. During this appointment you notice that her speech is a little rapid, in marked contrast to the psychomotor retardation and paucity of spontaneous speech she displayed on her first visit. Instead of looking at the floor, she now makes normal eye contact. Her affect has gone from constricted to expansive. She continues to have difficulty sleeping, but her energy has improved and she states she feels “so much better!” What should you conclude about the shift in the client’s presentation?",
+          "choices": {
+            "A": "She is experiencing the activating side effects of fluoxetine.",
+            "B": "She is becoming euthymic.",
+            "C": "She is becoming hypomanic.",
+            "D": "She is in a mixed state. 55."
+          },
+          "answer": "C",
+          "explanation": "In this case, you see a shifting set of symptoms, the most impor-tant being her expansive mood and statement “so much better” that indicates she has gone beyond euthymia."
+        },
+        {
+          "question": "Mr. D. is a 35-year-old, married, high-tech industry executive who is referred to the PMHNP for “insomnia. ” Mr. D. reports that he falls asleep quickly, but has difficulty staying asleep. He wakes up several times during the night, and believes he tosses and turns even when he is sleeping. He wakes up feeling exhausted and drinks “a pot of coffee” to stay awake and concentrate during his long work day. He drinks 1 glass of wine most evenings. He denies any illicit substance use. He denies any symptoms of a mood or anxiety disorder, but is feel-ing increasingly frustrated and concerned about his sleep. Which of the following is the most likely contributing factor to Mr. D. ’s ongoing middle insomnia?",
+          "choices": {
+            "A": "Obstructive sleep apnea (OSA)",
+            "B": "Caffeine dependence",
+            "C": "Alcohol withdrawal",
+            "D": "Attention-deficit hyperactivity disorder (ADHD)56."
+          },
+          "answer": "A",
+          "explanation": "OSA is the only plausible possibility if the rest of the information given by the client is accurate. OSA causes clients to have frequent awakenings and a sense that they are not sleeping deeply (“tossing and turning”) that is caused by apnea. The client should be assessed further for snoring and awareness of apnea. Although the client states he drinks a lot of coffee, this is driven by his sleep issues. 413REVIEW QUESTION ANSWERSDrinking 1 glass of wine in the evening would not cause the degree of sleep pathol-ogy he is exhibiting. Other than diminishing concentration that is consistent with sleep deprivation, there are no other signs and symptoms of ADHD."
+        },
+        {
+          "question": "Tina is a 54-year-old single white woman who has been a Psychiatric–Mental Health Nurse Practitioner for over 20 years. She is considering making application to a Doctor of Nursing Practice (DNP) program but states “if a DNP is required to practice I’ll get grandfathered in, no need for me to go back to school. ” Following the 2008 License, Accreditation, Certification, and Education (LACE) Consensus Model for Advanced Practice Registered Nurse Regulation, which statement is correct?",
+          "choices": {
+            "A": "Tina is correct: if the DNP becomes a requirement, she will be grandfathered in and obtain a DNP degree.",
+            "B": "The DNP is an academic terminal degree and there will not be an opportunity for Tina to be grandfathered in a DNP .",
+            "C": "Tina will be grandfathered in and obtain a DNP only if her state requires a DNP to prac-tice as an APRN.",
+            "D": "The DNP is a certification and Tina will have to take an examination to be grandfathered in to obtain a DNP .57 ."
+          },
+          "answer": "B",
+          "explanation": "APRNs are not grandfathered into an academic degree; degrees must be earned from accredited academic institutions."
+        },
+        {
+          "question": "Tim is a board-certified Psychiatric–Mental Health Nurse Practitioner (PMHNP) working in a busy community mental health center (CMHC). He is currently seeing a client diagnosed with bipolar I disorder who has comorbid hypertension and diabetes. During the visit, Tim takes the client’s blood pressure and her reading is 160/94 mm Hg. The client denies any headaches, nausea, chest pain, or shortness of breath. The client states “I can’t afford all these medications so I haven’t seen my doctor in 7 months and I am out of all my blood pressure and sugar medications, can you give me some?” What is Tim’s most appropriate action?",
+          "choices": {
+            "A": "Call the pharmacy to find out what medications the client is taking and refill for 1 month to cover until she can get in to see his primary care provider.",
+            "B": "Tell the client he cannot refill her medications and inform her to go to the emergency room should she develop any signs or symptoms of an elevated blood pressure or hyperglycemia.",
+            "C": "Call the client’s primary care provider, explain the situation, and coordinate the client getting an appointment and medication refills.",
+            "D": "Send the client to an urgent care clinic to get refills today.58."
+          },
+          "answer": "C",
+          "explanation": "It is not within the scope of practice of a PMHNP to treat hyper-tension. Coordination of care to ensure the client does not run out of medication is the appropriate course of action."
+        },
+        {
+          "question": "The chief nursing officer of a large behavioral health system approached the PMHNP to dis-cuss the new Healthcare Effectiveness Data and Information Set (HEDIS) behavioral health measures and specifications. The PMHNP is asked to do a retrospective chart review of all hospital discharge clients who received a follow-up visit within 7 days of discharge and with-in 30 days of discharge. The PMHNP has been asked to engage in which of the following?",
+          "choices": {
+            "A": "Needs assessment project",
+            "B": "Plan, do, study, act project",
+            "C": "A task that is outside of the PMHNP’s scope of practice",
+            "D": "Quality improvement initiative59."
+          },
+          "answer": "D",
+          "explanation": "Engaging in a project to assess whether a standard of care was met is a quality improvement project."
+        },
+        {
+          "question": "A PMHNP who is working on the consult liaison service is referred to a patient in the medi-cal intensive care unit by the attending hospitalist. The consult note read “Evaluate the patient for competency to make independent medical decisions and consent for a surgical procedure. ” Based on the scope of practice of a PMHNP , which response would be most appropriate?",
+          "choices": {
+            "A": "Complete the patient assessment and write up the findings in the patient’s medical record.",
+            "B": "Complete a patient assessment, including the mini mental status examination and fam-ily collateral data to determine competency.",
+            "C": "Call the hospitalist and provide education that competency is a legal concept and ex-plain that you can assess the patient for the capacity to make medical decisions.",
+            "D": "Refuse the consult and inform the hospitalist that this is outside your scope of practice. 60."
+          },
+          "answer": "C",
+          "explanation": "The legal system makes determination whether a person is com-petent; practitioners can assess and make a determination about a person’s capacity to make medical decisions."
+        },
+        {
+          "question": "You are asked by a church organization to work with members within your health system to develop a flu vaccination program. According to public health principles, this is an example of what level of prevention?",
+          "choices": {
+            "A": "Secondary",
+            "B": "Preventative",
+            "C": "Tertiary",
+            "D": "Primary61 ."
+          },
+          "answer": "D",
+          "explanation": "Prevention of illness is primary prevention and administration of flu vaccinations in a community is intended to prevent a flu outbreak."
+        },
+        {
+          "question": "A client with bipolar I disorder presents to your PMHNP office for a follow-up visit. During the visit the client informs you that he no longer wants to be treated with medication, and he does not have bipolar disorder, that was a misdiagnosis. He further informs you he stopped all his medication 2 months ago and is here to thank you for your care and tell you that he no longer needs follow-up appointments. Understanding the ethical conflict, you use which of the following ethical principles in working with this client?",
+          "choices": {
+            "A": "Autonomy",
+            "B": "Nonmaleficence",
+            "C": "Justice",
+            "D": "Beneficence 62."
+          },
+          "answer": "A",
+          "explanation": "Clients who are legally competent have the ability to make medi-cal decisions and maintain individual autonomy."
+        },
+        {
+          "question": "A new client reveals to the PMHNP that her boyfriend screams at her and has repeatedly slapped and pushed her in front of her 3-year-old son. She goes on to say that the boyfriend has thrown things at her and on one occasion threw a glass of water at her that hit her son in the back. Should the PMHNP report this to child protective services (CPS)?",
+          "choices": {
+            "A": "Yes, the client is issuing a cry for help for her son.",
+            "B": "Yes, the PMHNP has a duty to report.",
+            "C": "No, this does not constitute a reportable offense.",
+            "D": "No, a report to CPS will escalate the violence.63."
+          },
+          "answer": "B",
+          "explanation": "PMHNPs are mandated reporters of child abuse. The 3-year-old is being exposed to violence and although not the target, could have been injured when the boyfriend threw the glass of water."
+        },
+        {
+          "question": "Which of the following is a function of the psychiatric interview?",
+          "choices": {
+            "A": "Understand the client’s psychosocial needs and communicate them to the treatment team",
+            "B": "Identify the mental health needs of the client",
+            "C": "Review previous medical records",
+            "D": "Evaluate a treatment plan64."
+          },
+          "answer": "B",
+          "explanation": "During a psychiatric interview, the PMHNP is responsible to iden-tify symptoms and needs of a client to develop an appropriate treatment plan."
+        },
+        {
+          "question": "A 74-year-old married white woman was referred to you by her primary care provider for a psychiatric evaluation. She had a normal medical and neurological examination in the last 2 months. The client presents with her husband of 45 years who states, “My wife is just not the same anymore, she is irritable and asks the same question several times, even though I’ve answered it many times. ” The client responds, “Oh, Henry, you do the same thing, it’s just a normal part of getting older, and the kids think everything is fine. ” During the assess-ment you compete the mini mental status examination (MMSE) and the client scores 18. As the PMHNP treating the client, you know the results of her MMSE indicate which level of cognitive impairment?",
+          "choices": {
+            "A": "No cognitive impairment",
+            "B": "Mild cognitive impairment",
+            "C": "Moderate cognitive impairment",
+            "D": "Severe cognitive impairment 65."
+          },
+          "answer": "C",
+          "explanation": "Cut points on the MMSE are as follows: total score 30, 25–30 questionable significance, 20–25 mild impairment, 10–20 moderate impairment, and 10 or lower severe impairment."
+        },
+        {
+          "question": "You are the PMHNP treating Tim, a 10-year-old child, for ADHD and social anxiety disorder. His mother presents with Tim for his scheduled individual therapy session. At the end of the session his mother says, “I need to take Tim to see his pediatrician and at the last visit I was told he needed some HPV shot. I don’t know, he’s a boy, why would he need that? What do you think?” What is the PMHNP’s best response to her question?",
+          "choices": {
+            "A": "“The Centers for Disease Control and Prevention (CDC) recommends the human papil-lomavirus (HPV) vaccine for all boys and girls at age 10. HPV can cause cancer in both men and women, and the vaccine is effective in protecting against the virus. Can you tell me your concerns about Tim getting this vaccine?”",
+            "B": "“While the Centers for Disease Control and Prevention (CDC) recommends the vaccine, every parent has the right to choose and if you do not think Tim needs this vaccine, as his parent you have the right to refuse. ”",
+            "C": "“The Centers for Disease Control and Prevention (CDC) recommends the human papil-lomavirus (HPV) vaccine for older teenagers, starting at age 18, so you have time to research and think about your decision. ”",
+            "D": "“My daughters received the vaccine, and I’m like you, I did not let my sons receive the vaccine. They don’t need it. I agree, vaccines can be scary, can you tell me your concerns?” 66."
+          },
+          "answer": "A",
+          "explanation": "When family members or clients ask questions about illnesses and treatment, it is the PMHNP’s responsibility to provide data and then assess understanding and meaning."
+        },
+        {
+          "question": "As a PMHNP working in a crisis evaluation center, you are aware that the initial focus of a crisis assessment is on which of the following?",
+          "choices": {
+            "A": "Client’s past diagnosis and medication trials",
+            "B": "Psychosocial history and supports",
+            "C": "Safety of the client and others",
+            "D": "Current living situation and coping skills 67 ."
+          },
+          "answer": "C",
+          "explanation": "In a crisis, the first assessment should be safety of the client and those near the client."
+        },
+        {
+          "question": "When conducting a neurological examination on a client, the PMHNP asks the client to hold out her arms and stick out her tongue while assessing for tremors. Which cranial nerve is being assessed?",
+          "choices": {
+            "A": "Glossopharyngeal",
+            "B": "Vagus",
+            "C": "Trigeminal",
+            "D": "Hypoglossal 68."
+          },
+          "answer": "D",
+          "explanation": "The tongue is controlled by the hypoglossal cranial nerve."
+        },
+        {
+          "question": "A 20-year-old Asian man who was recently diagnosed with schizophrenia comes to your office for a follow-up appointment. During the assessment, he talks about his experience in the group home, thinking that the television is sending him messages through news anchors during the 10 p.m. evening news. What symptom is the client describing?",
+          "choices": {
+            "A": "Paranoia",
+            "B": "Illusions",
+            "C": "Ideas of reference",
+            "D": "Neologisms 69."
+          },
+          "answer": "C",
+          "explanation": "Ideas of reference are misinterpretations of incidents and events that one believes have a direct personal reference to oneself."
+        },
+        {
+          "question": "You are working with a family: mother, father, and two biological children. Sam, the father, is very rigid and controlling, which seems to be out of fear that something might happen to his family. He worries daily and it affects his family relationships. You give Sam a paradoxical directive and instruct him to intensely worry about everything he can think of for 1 hour a day. Using a paradoxical directive is part of which therapy?",
+          "choices": {
+            "A": "Experimental",
+            "B": "Structural",
+            "C": "Strategic",
+            "D": "Cognitive 70."
+          },
+          "answer": "C",
+          "explanation": "Paradoxical directives may be used in strategic family therapy."
+        },
+        {
+          "question": "As a PMHNP working in an outpatient addiction clinic, you often refer your clients to com-munity AA and NA meetings. Using Yalom’s therapeutic factors, you are aware that peer-led groups can inspire and encourage other group participants. Which therapeutic factor is instilled in AA and NA group members?",
+          "choices": {
+            "A": "Hope",
+            "B": "Altruism",
+            "C": "Catharsis",
+            "D": "Existential factors 71 ."
+          },
+          "answer": "A",
+          "explanation": "Working in support groups such as AA and NA, hearing stories of others who had similar struggles, instills hope."
+        },
+        {
+          "question": "Which of the following client statements best describes imitative behavior as a therapeutic factor in group therapy?",
+          "choices": {
+            "A": "Group members talk over one another so the loudest person is heard",
+            "B": "Group members begin to model aspects of other members of the group and group leaders",
+            "C": "Group members discuss past situations when they were bullied and felt ashamed",
+            "D": "Group leaders take charge of the group and redirect members when they monopolize the group 72."
+          },
+          "answer": "B",
+          "explanation": "As group progresses the leader is less active and the members of the group take over and begin to model other members and the leaders."
+        },
+        {
+          "question": "Dialectical behavioral therapy (DBT) draws on cognitive theory and behavioral theory, along with other theories. Elements of behavioral theory in DBT include which of the following?",
+          "choices": {
+            "A": "Skills training and exposure",
+            "B": "Examination of feelings and relating feelings to visceral sensations",
+            "C": "Working through the transference with the therapist",
+            "D": "Cognitive interpretation of past traumatic experiences 73."
+          },
+          "answer": "A",
+          "explanation": "DBT focuses on cognitive and behavioral techniques, mindful-ness including meditation, and emotional regulation."
+        },
+        {
+          "question": "Dialectical behavioral therapy (DBT) affirms dialectical thinking, which involves examining and discussing opposing ideas to find the truth. This philosophy is a supportive principle of DBT training. The central dialectical pattern emphasized in DBT involves the tension between:",
+          "choices": {
+            "A": "Radical acceptance and change",
+            "B": "Cue exposure and block avoidance",
+            "C": "Problem avoidance and problem-solving",
+            "D": "Crisis survival and acceptance74."
+          },
+          "answer": "A",
+          "explanation": "DBT emphasis acceptance of the current reality of what is and the ability to engage in personal change. 414 PSYCHIATRIC-MENTAL HEALTH NURSE PRACTITIONER REVIEW AND RESOURCE MANUAL, 4TH EDITION"
+        },
+        {
+          "question": "Samantha is a 26-year-old partnered woman who works full time as a teacher. She is in a long-term relationship with Mary and they are getting along well, and doing well financially. They have two children, ages 2 and 6. Samantha is seeing the PMHNP to address her concerns that she is feeling down and sad for no reason and states, “I know my life is going well but I just don’t feel happy. I have always worried a lot and have been sad most of my life. ” As a PMHNP trained in transactional analysis (TA), you understand that personality is multifaceted and wonder if which of the following is affecting her ability to experience happiness:",
+          "choices": {
+            "A": "She had long periods of separation from her primary caregiver as a child and now has a difficult time accepting and receiving love and experiencing happiness",
+            "B": "She likely had a traumatic event in her childhood and her thoughts and feelings related to the event are locked together in her brain and cannot be accessed",
+            "C": "Her unhappiness is likely related to distorted thoughts and feelings about her relationship",
+            "D": "As an adolescent she experienced an event that was processed in an ego state as an older sibling75."
+          },
+          "answer": "B",
+          "explanation": "According to TA, when a person is traumatized the thoughts and feelings get tied together and the process of therapy is to unlock the two."
+        },
+        {
+          "question": "You have been working with a 54-year-old man who has been treated for schizophrenia since age 19. He has limited social interactions, likes to be alone, and has never dated nor had a desire to date. His symptoms are best explained by which of the following?",
+          "choices": {
+            "A": "Antisocial personality disorder",
+            "B": "Lack of personal hygiene",
+            "C": "Negative symptoms",
+            "D": "Positive symptoms 76."
+          },
+          "answer": "C",
+          "explanation": "Negative symptoms include flat affect, alogia, avolition, poor attention, and anhedonia. In the case study, the symptoms are avolition and anhedonia."
+        },
+        {
+          "question": "Following evidence-based (EB) practice, which laboratory screening tests and assessments should be completed prior to placing a person on a second-generation (“atypical”) antipsy-chotic medication?",
+          "choices": {
+            "A": "Serum glucose, lipid profile, weight, blood pressure, waist circumference, and family history of cardiovascular disease",
+            "B": "Comprehensive metabolic panel, body mass index, complete blood count, and thyroid panel",
+            "C": "Serum glucose or hemoglobin A1c, lipid profile, weight, body mass index, blood pres-sure, waist circumference, and family history of cardiovascular disease",
+            "D": "Serum glucose, complete blood count, assessment of family history of cardiovascular disease and cancer 77 ."
+          },
+          "answer": "C",
+          "explanation": "EB practice guidelines indicate that all clients should have the fol-lowing prior to starting antipsychotic medication: fasting glucose or A1c, lipid profile, weight, body mass index, blood pressure, waist circumference, and family history of cardiovascular disease."
+        },
+        {
+          "question": "Which type of hallucination is rare in persons with psychotic illnesses and is often associ-ated with an organic etiology?",
+          "choices": {
+            "A": "Auditory hallucinations",
+            "B": "Gustatory hallucinations",
+            "C": "Visual hallucinations",
+            "D": "Combination hallucinations 78."
+          },
+          "answer": "B",
+          "explanation": "The most common type of hallucinations in persons with psy-chotic illnesses are auditory and visual. Tactile and gustatory hallucinations are less common and more likely related to an organic illness."
+        },
+        {
+          "question": "What differentiates atypical antipsychotic medications from first-generation or typical anti-psychotic medications?",
+          "choices": {
+            "A": "5HT2a receptor antagonist properties",
+            "B": "5HT2a receptor agonist properties",
+            "C": "Specific dopamine receptor 3 and 5HT2a blockade",
+            "D": "Dopamine receptor 2 antagonist properties 79."
+          },
+          "answer": "A",
+          "explanation": "Typical antipsychotic medications block D2 receptors; atypical antipsychotic medications block D2 receptors and have 5HT2a antagonist properties."
+        },
+        {
+          "question": "You are treating a client with schizophrenia who takes clozapine. What laboratory values will indicate the client needs to discontinue treatment?",
+          "choices": {
+            "A": "White blood cell count of less than 1,800/mm3 and absolute neutrophil count of less than 1,200/mm3",
+            "B": "Absolute neutrophil count of less than 1,000/uL",
+            "C": "White blood cell count of less than 1,200/mm3",
+            "D": "Absolute neutrophil count of less than 2,000/uL 80."
+          },
+          "answer": "B",
+          "explanation": "The recent change in monitoring clozapine clients using the risk evaluation and mitigation strategy (REMS) indicates persons treated on clozapine need to have absolute neutrophil count monitored and, if it drops below 1,000/uL, treatment must be interrupted and can be resumed once the absolute neutrophil count normalizes above 1,000/uL."
+        },
+        {
+          "question": "Sean is a 47-year-old Gulf War veteran who was in combat during Operation Desert Storm. Sean has been treated by the PMHNP for major depressive disorder and associated anxiety symptoms. During the most recent visit, the PMHNP learns that Sean sustained a traumatic brain injury during his service, which was recently diagnosed at the TBI clinic in the Veterans Affairs clinic. What is the rationale for the PMHNP to taper Sean off clonazepam?",
+          "choices": {
+            "A": "Benzodiazepines causes memory problems and confusion in clients with a history of a TBI.",
+            "B": "Benzodiazepines lower the seizure threshold in clients with a history of a TBI.",
+            "C": "Veterans Affairs has banned benzodiazepines from the medication formulary.",
+            "D": "Benzodiazepines place clients with a TBI at risk for a second head injury.81 ."
+          },
+          "answer": "A",
+          "explanation": "Benzodiazepines are contraindicated in clients with a TBI due to increase rates of confusion and memory problems."
+        },
+        {
+          "question": "Alice is a 68-year-old woman who presents to you with concerns about her memory. She explains that her mother and grandmother both experienced dementia and she wants to do what she can to prevent this terrible disease. Alice is treated for hypertension, which is well controlled; other than that she is in good health. She is socially and physically active and participates in a monthly cooking class, volunteers at her church, and plays bridge twice a week at the senior center. She says, “I understand that I am losing brain cells at my age, but I would still like to keep my mind and body active. ” Which is the best response to Alice? a. “You are correct that you cannot form new brain cells at your age but you should continue with your activities because they offer excellent physical and mental health benefits and in turn will lower your risk for dementi",
+          "choices": {
+            "A": "”",
+            "B": "“ Although most brain development occurs early in life, we still form some new brain cells in a couple of areas of the brain during adulthood. You should continue with your activities because they offer excellent physical and mental health benefits and are neuroprotective. ”",
+            "C": "“Scientists now know that we do continue to form new brain cells throughout the entire brain during adulthoo",
+            "D": "Continue with your activities because you are producing new brain cells in the frontal lobe and this will decrease your risk of dementia. ”d. “You should continue the social activities such as bridge, volunteering, and the book club but should consider the risks and benefits of physical activities such as dancing. If you were to fall and break a hip, this could lead to prolonged hospitalization, loss of independence, and ultimately increase your risk of dementia. ”82."
+          },
+          "answer": "B",
+          "explanation": "While it was once thought that brain neurons did not regenerate, we now known that while most brain development occurs early in life, we continue to form some new brain cells throughout life. As we age, we need to engage in activities that keep our brains healthy by encouraging this growth. Examples are diet, exercise, socialization, and cognitive stimulation."
+        },
+        {
+          "question": "What is the best treatment for AIDS dementia complex?",
+          "choices": {
+            "A": "Acetylcholinesterase inhibitors",
+            "B": "Symptom-targeted pharmacologic treatments",
+            "C": "Nonpharmacologic supportive care",
+            "D": "Antiretroviral therapy83."
+          },
+          "answer": "D",
+          "explanation": "All persons with AIDS should be treated with antiretroviral therapy. Those who develop dementia complex should have those symptoms treated with appropriate pharmacological or nonpharmacological interventions."
+        },
+        {
+          "question": "As a PMHNP working on the consult liaison team, you know the importance of preventing delirium due to which of the following?",
+          "choices": {
+            "A": "Risk of 1-year mortality rate",
+            "B": "Risk of harm to the client and staff",
+            "C": "Risk of unremitting psychosis",
+            "D": "Risk of aspiration 84."
+          },
+          "answer": "A",
+          "explanation": "Studies have identified high rates of mortality post hospitalization for delirium so the best treatment is prevention."
+        },
+        {
+          "question": "When working with a 26-year-old, Mike, who presents for treatment of cannabis use and gambling, you use motivational interviewing techniques. As a PMHNP , you are familiar with the core counseling skills used in motivational interviewing. Mike made the following state-ment: “I don’t know why I came here in the first place but I thought maybe some medica-tion would help me. ” You respond by saying, “You’re feeling confused about the process” and Mike replies, “I never thought I’d need to come to a place like this. ” You respond, “You kept your appointment today and I appreciate the courage it took for you to come here. ” What two motivational interviewing techniques are used in this interaction?",
+          "choices": {
+            "A": "Interrupting and reassurance",
+            "B": "Affirming and reflecting",
+            "C": "Open-ended questions and summarizing",
+            "D": "Clarification and data collection 85."
+          },
+          "answer": "B",
+          "explanation": "When a person is in contemplation stage, interventions should be affirming and reflecting."
+        },
+        {
+          "question": "You are a PMHNP working in a hospitalist role on an acute inpatient psychiatric unit at a lo-cal hospital. As you make rounds, the registered nurse informs you that a 32-year-old client who was admitted for alcohol detox has a score of 17 on the Clinical Institute Withdrawal Assessment for Alcohol. What phase of withdrawal is this client in?",
+          "choices": {
+            "A": "Mild withdrawal",
+            "B": "Moderate withdrawal",
+            "C": "Severe withdrawal",
+            "D": "Delirium tremens86."
+          },
+          "answer": "B",
+          "explanation": "CIWA cut off scores are as follows: 0–9, absent or very mild withdrawal; 10–15, mild withdrawal; 16–20, moderate withdrawal; and 21–67 , severe withdrawal."
+        },
+        {
+          "question": "A client who has been addicted to opioids has not used in 15 days. During your medication management visit, the client states, “I’m going to die from not having my Opanas. You need to give me something now. ” The PMHNP’s best response is:",
+          "choices": {
+            "A": "“I know you are feeling very uncomfortable and we need to get you to the emergency room immediately to prevent a seizure. ”",
+            "B": "“I know you are feeling very uncomfortable, let’s take your vital signs and talk about a trial on Catapres to treat your withdrawal symptoms. ”",
+            "C": "“You have been using Opana for a long time and it is going to take several months for the withdrawal to en",
+            "D": "In the meantime, I will see you weekly. ”d. “There is no treatment for opioid withdrawal; you will have to wait it out. ”87 ."
+          },
+          "answer": "B",
+          "explanation": "Opioid withdrawal symptoms can be treated with central alpha agonists."
+        },
+        {
+          "question": "Signs and symptoms of cannabis intoxication include:",
+          "choices": {
+            "A": "Increase sensitivity to external stimuli",
+            "B": "Enhanced motor skills",
+            "C": "Fast passage of time",
+            "D": "Lower heart rate88."
+          },
+          "answer": "A",
+          "explanation": "Persons intoxicated on cannabis exhibit distorted perceptions, increase relaxation and sensitivity, and loss of coordination."
+        },
+        {
+          "question": "Which defense mechanisms are commonly used by persons with obsessive–compulsive personality disorder?",
+          "choices": {
+            "A": "Rationalization, isolation, and intellectualization",
+            "B": "Projection, distortion, and hypochondriasis",
+            "C": "Regression, somatization, and dissociation",
+            "D": "Sexualization, displacement, and reaction formation89."
+          },
+          "answer": "A",
+          "explanation": "Persons with obsessive–compulsive personality disorder use defense mechanisms of rationalization, isolation of affect, and intellectualization to make sense of their behavior. 415REVIEW QUESTION ANSWERS"
+        },
+        {
+          "question": "You have been working with Cody, a 30-year-old single man, in weekly individual psychother-apy for 3 weeks. At the start of session 4 he says, “I noticed when I came in that your usual parking spot has a new car in it with temporary tags, and it’s a BMW. Nice car. ” What is the best response from the PMHNP psychotherapist to Cody?",
+          "choices": {
+            "A": "“Thanks for noticing, it is a nice car. ”",
+            "B": "“How do you know what spot I park in?”",
+            "C": "“I noticed you drive a BMW as well, how do you like your car?”",
+            "D": "“Sounds like having expensive things is important to you. ” 90."
+          },
+          "answer": "D",
+          "explanation": "In a therapy relationship, the therapist should try to understand the meaning of a client’s statement rather than engage in social conversations."
+        },
+        {
+          "question": "When working in individual psychotherapy with a client who has a personality disorder, what are the primary treatment goals?",
+          "choices": {
+            "A": "Change the client’s personality structure and make him or her more adaptable in every-day life.",
+            "B": "Reparent the client, following Bowlby’s theoretical framework.",
+            "C": "Allow the client to reprocess his or her childhood trauma because all clients with per-sonality disorders have a history of severe abuse.",
+            "D": "Assist the client in changing dysfunctional interpersonal relationships and use of imma-ture defense mechanisms.91 ."
+          },
+          "answer": "D",
+          "explanation": "Persons with personality disorders have a pervasive maladaptive pattern of behavior and the goal of therapy is to slowly shift how they relate in the world and begin to use higher-order defenses."
+        },
+        {
+          "question": "For a client who has paranoid personality disorder, what are the best treatment strategies?",
+          "choices": {
+            "A": "Confront negative and misinterpreted thoughts and feelings.",
+            "B": "Deflate grandiose thoughts.",
+            "C": "Engage the client in detailed and emotional responses and dialog.",
+            "D": "Do not challenge negative views or recollections of events.92."
+          },
+          "answer": "D",
+          "explanation": "Persons with fixed false beliefs should not be challenged."
+        },
+        {
+          "question": "John, a client with paranoid personality disorder, states the following: “I noticed there is a red light in the upper corner of your door and it has been going on and off during our ses-sions. Are you recording me?” What is the PMHNP best response?",
+          "choices": {
+            "A": "“No, it would be illegal for me to record you, and that is not a camera it’s just a red light. ”",
+            "B": "“John, thank you for asking the question. The light you see in the upper corner of my door tells me when a client has arrived and is in the waiting room. The client turns on the light, as you do, when they arrive in the waiting room, alerting me their arrival, and I turn off the light when we get into the office using the switch by my desk. ”",
+            "C": "“Come on John, do you think I would record your sessions? You are not that interesting. I’m just kidding, no John, it is not a recorder or camera. ”",
+            "D": "“John, it takes courage to ask me the question. Tell me a time in your life when you had a similar experience. ”93."
+          },
+          "answer": "B",
+          "explanation": "When working with a paranoid client, help the person find proof of meaning and explain any questions in a matter-of-fact manner."
+        },
+        {
+          "question": "As a PMHNP , you understand the genetic factors that contribute to psychiatric and personal-ity disorders. Persons who develop antisocial personality disorder often are raised in families with high rates of which of the following?",
+          "choices": {
+            "A": "Psychotic disorders",
+            "B": "Alcohol use disorders",
+            "C": "Anxiety disorders",
+            "D": "Mood disorders 94."
+          },
+          "answer": "B",
+          "explanation": "Being raised in an alcoholic family increases the likelihood of chaos, unpredictability, and lack of rules and order, leading to higher rates of develop-ing antisocial personality disorder."
+        },
+        {
+          "question": "Persons with obsessive–compulsive personality disorder often use isolation as a de-fense mechanism. Which of the following examples best describes isolation as a defense mechanism?",
+          "choices": {
+            "A": "Staying in the house for days or weeks to clean",
+            "B": "Declining invites by friends or family to attend social gatherings",
+            "C": "Describing information with very little affect variation",
+            "D": "Being an introvert in the work setting to prevent talking with coworkers95."
+          },
+          "answer": "C",
+          "explanation": "Isolation is a defense mechanism often used by people with obsessive–compulsive personality disorder and has to do with affect and emotion rather than getting out and being social."
+        },
+        {
+          "question": "In the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5), how should a personality disorder be coded?",
+          "choices": {
+            "A": "Coded with the major psychiatric disorder",
+            "B": "Coded on Axis II",
+            "C": "Coded on Axis III",
+            "D": "Coded on Axis IV 96."
+          },
+          "answer": "A",
+          "explanation": "DSM-5 no longer uses the axial system."
+        },
+        {
+          "question": "When prescribing a selective serotonin reuptake inhibitor (SSRI) for a child or young adult up to age 24, what education must be included?",
+          "choices": {
+            "A": "Black box warning about increased suicidality in this population",
+            "B": "Black box warning about increased risk of mania in this population",
+            "C": "Risk of sexual side effects on this class of medication",
+            "D": "Risk of stomach upset and headaches, to prevent unnecessary primary care visits97 ."
+          },
+          "answer": "A",
+          "explanation": "The SSRIs all carry a black box warning for increased suicidal ideation for this age group."
+        },
+        {
+          "question": "Tommy is an 8 year-old who presents to the PMHNP for evaluation of attention-deficit hyper-activity disorder. His mother completed the Vanderbilt ADHD rating scale and brought in the Vanderbilt teaching rating scale. Both your clinical interview and the rating scales indicate Tommy has ADHD. What assessment indicator(s) need to be completed prior to starting a stimulant mediation?",
+          "choices": {
+            "A": "Get a copy of the rating scale completed by his grandparents.",
+            "B": "Assess for family history of cardiovascular disease and, if positive for conduction prob-lems, order an electrocardiogram before prescribing medication.",
+            "C": "Obtain blood pressure, and pulse, and begin the stimulant medication.",
+            "D": "Assess for a family history of bipolar disorder. 98."
+          },
+          "answer": "B",
+          "explanation": "American Academy of Child and Adolescent Psychiatry practice parameters require physical exam, pulse, weight, height, and blood pressure workup prior to the start of stimulant medication. Because his grandfather had a cardiac conduction problem, an electrocardiogram (ECG) should also be obtained prior to the start of medication."
+        },
+        {
+          "question": "A mother brings in her 7-year-old son for a psychiatric follow-up visit with the PMHNP . This is the fourth visit the PMHNP has had with the client, his mother, and his younger sister, Renee, now 7 months old. You notice that she has a decrease in head growth, along with stereotypic motions of the hands, often licking and slapping. Renee has also lost her lan-guage skills. What medical condition do you suspect Renee has developed?",
+          "choices": {
+            "A": "Autism spectrum disorder",
+            "B": "Rett syndrome",
+            "C": "Selective mutism",
+            "D": "Childhood onset diabetes 99."
+          },
+          "answer": "B",
+          "explanation": "Girls with Rett’s syndrome develop normally and around the 7th month regress, with a decrease in head size and language loss."
+        },
+        {
+          "question": "You are treating Timothy, a 16-year-old boy, for an eating disorder. Timothy is of normal weight and socially extroverted, at times appearing to seek attention when in a peer group or class. Timothy’s symptoms are most consistent with which eating disorder?",
+          "choices": {
+            "A": "Anorexia nervosa",
+            "B": "Bulimia nervosa",
+            "C": "Binge eating disorder",
+            "D": "Anxiety-induced eating disorder 100."
+          },
+          "answer": "B",
+          "explanation": "Clients with bulimia are often of normal weight or overweight and are outgoing."
+        },
+        {
+          "question": "You are treating a 14-year-old female for attention-deficit hyperactivity disorder (ADHD) who has a family history of bipolar disorder. As a PMHNP familiar with symptoms of both ADHD and pediatric bipolar disorder, you know the following are overlapping symptoms of both disorders:",
+          "choices": {
+            "A": "Excessive talking, increased activity, and distractibility",
+            "B": "Irritability, sleep problems, and mood swings",
+            "C": "Excessive talking, irritability, and sleep problems",
+            "D": "Sleep problems, mood swings, and distractibility"
+          },
+          "answer": "A",
+          "explanation": "Clients with ADHD and bipolar disorder often have excessive talking, increased activity, and distractibility."
+        }
+      ]
+    }
+  ]
+}

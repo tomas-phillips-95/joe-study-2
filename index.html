@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PMHNP Study Flashcards</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>PMHNP Study Flashcards</h1>
+  </header>
+
+  <main>
+    <!-- Deck Selector -->
+    <div class="deck-selector">
+      <label for="deck-select">Choose a deck:</label>
+      <select id="deck-select"></select>
+      <button id="shuffle-btn" title="Shuffle cards">&#x1F500; Shuffle</button>
+    </div>
+
+    <!-- Progress Bar -->
+    <div class="progress-bar-container">
+      <div class="progress-bar" id="progress-bar"></div>
+    </div>
+    <p class="progress-text" id="progress-text"></p>
+
+    <!-- Flashcard -->
+    <div class="card-scene" id="card-scene">
+      <div class="card" id="card">
+        <div class="card-face card-front" id="card-front">
+          <p class="card-question" id="card-question"></p>
+          <ul class="card-choices" id="card-choices"></ul>
+          <p class="tap-hint">Tap to reveal answer</p>
+        </div>
+        <div class="card-face card-back" id="card-back">
+          <p class="answer-label">Correct Answer</p>
+          <p class="card-answer" id="card-answer"></p>
+          <p class="card-explanation" id="card-explanation"></p>
+          <p class="tap-hint">Tap to return to question</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="nav-buttons">
+      <button id="prev-btn">&larr; Previous</button>
+      <button id="next-btn">Next &rarr;</button>
+    </div>
+
+    <!-- Keyboard hint -->
+    <p class="keyboard-hint">Use <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>Space</kbd> to flip</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
