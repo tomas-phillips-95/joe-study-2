@@ -205,6 +205,37 @@ describe("progress calculation", () => {
 });
 
 // ---------------------------------------------------------------------------
+// Swipe detection logic
+// ---------------------------------------------------------------------------
+describe("swipe detection", () => {
+  function detectSwipe(dx, dy, minDistance = 60) {
+    if (Math.abs(dx) < minDistance) return "none";
+    if (Math.abs(dy) > Math.abs(dx)) return "none";
+    return dx < 0 ? "next" : "prev";
+  }
+
+  it("swipe left triggers next", () => {
+    assert.equal(detectSwipe(-80, 10), "next");
+  });
+
+  it("swipe right triggers prev", () => {
+    assert.equal(detectSwipe(80, 5), "prev");
+  });
+
+  it("short swipe is ignored", () => {
+    assert.equal(detectSwipe(-30, 5), "none");
+  });
+
+  it("vertical swipe is ignored", () => {
+    assert.equal(detectSwipe(-80, 100), "none");
+  });
+
+  it("diagonal favoring vertical is ignored", () => {
+    assert.equal(detectSwipe(70, -75), "none");
+  });
+});
+
+// ---------------------------------------------------------------------------
 // Keyboard shortcut mapping
 // ---------------------------------------------------------------------------
 describe("keyboard shortcut mapping", () => {

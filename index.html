@@ -2,39 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#4f46e5">
   <title>PMHNP Study Flashcards</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-192.svg">
+  <link rel="icon" href="icon-192.svg" type="image/svg+xml">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <h1>PMHNP Study Flashcards</h1>
+    <div class="header-controls">
+      <select id="deck-select" aria-label="Choose a deck"></select>
+      <button id="shuffle-btn" title="Shuffle cards">&#x1F500;</button>
+    </div>
   </header>
 
-  <main>
-    <!-- Deck Selector -->
-    <div class="deck-selector">
-      <label for="deck-select">Choose a deck:</label>
-      <select id="deck-select"></select>
-      <button id="shuffle-btn" title="Shuffle cards">&#x1F500; Shuffle</button>
-    </div>
-
-    <!-- Score -->
-    <div class="score-bar">
+  <main id="main">
+    <!-- Score + Progress -->
+    <div class="status-row">
       <span id="score-text">0 / 0 correct</span>
+      <span id="progress-text"></span>
     </div>
-
-    <!-- Progress Bar -->
     <div class="progress-bar-container">
       <div class="progress-bar" id="progress-bar"></div>
     </div>
-    <p class="progress-text" id="progress-text"></p>
 
     <!-- Question Card -->
     <div class="card" id="card">
       <p class="card-question" id="card-question"></p>
       <ul class="card-choices" id="card-choices"></ul>
-      <p class="tap-hint" id="tap-hint">Select an answer</p>
+      <p class="tap-hint" id="tap-hint">Tap an answer</p>
 
       <!-- Feedback (hidden until answered) -->
       <div class="feedback" id="feedback">
@@ -42,16 +44,14 @@
         <p class="card-explanation" id="card-explanation"></p>
       </div>
     </div>
-
-    <!-- Navigation -->
-    <div class="nav-buttons">
-      <button id="prev-btn">&larr; Previous</button>
-      <button id="next-btn">Next &rarr;</button>
-    </div>
-
-    <!-- Keyboard hint -->
-    <p class="keyboard-hint">Use <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>1</kbd>-<kbd>4</kbd> to choose</p>
   </main>
+
+  <!-- Fixed bottom navigation -->
+  <nav class="bottom-nav" id="bottom-nav">
+    <button id="prev-btn" aria-label="Previous card">&larr; Prev</button>
+    <span class="nav-position" id="nav-position"></span>
+    <button id="next-btn" aria-label="Next card">Next &rarr;</button>
+  </nav>
 
   <script src="app.js"></script>
 </body>

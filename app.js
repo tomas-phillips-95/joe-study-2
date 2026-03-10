@@ -15,6 +15,8 @@
   const cardExplanation = document.getElementById("card-explanation");
   const prevBtn = document.getElementById("prev-btn");
   const nextBtn = document.getElementById("next-btn");
+  const navPosition = document.getElementById("nav-position");
+  const mainEl = document.getElementById("main");
 
   // ===== State =====
   let allDecks = [];
@@ -31,6 +33,7 @@
     allDecks = data.decks;
     populateDeckSelector();
     loadDeck(0);
+    initSwipe();
   }
 
   function populateDeckSelector() {
@@ -94,7 +97,10 @@
       span.className = "choice-letter";
       span.textContent = letter + ".";
       li.appendChild(span);
-      li.appendChild(document.createTextNode(" " + card.choices[letter]));
+
+      const textSpan = document.createElement("span");
+      textSpan.textContent = card.choices[letter];
+      li.appendChild(textSpan);
 
       li.addEventListener("click", () => selectAnswer(letter));
       cardChoices.appendChild(li);
@@ -103,6 +109,9 @@
     updateProgress();
     updateScore();
     updateNavButtons();
+
+    // Scroll to top of card on navigation
+    mainEl.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   // ===== Answer Selection =====
@@ -125,8 +134,10 @@
 
       if (letter === correctLetter) {
         li.classList.add("correct");
+        appendCheckIcon(li, "\u2713");
       } else if (letter === selectedLetter) {
         li.classList.add("wrong");
+        appendCheckIcon(li, "\u2717");
       } else {
         li.classList.add("dimmed");
       }
@@ -137,11 +148,11 @@
     feedback.classList.add("visible");
 
     if (isCorrect) {
-      feedbackResult.textContent = "Correct!";
+      feedbackResult.textContent = "\u2705 Correct!";
       feedbackResult.classList.add("is-correct");
     } else {
       const correctText = card.choices[correctLetter] || "";
-      feedbackResult.textContent = `Incorrect — the answer is ${correctLetter}. ${correctText}`;
+      feedbackResult.textContent = `\u274C Incorrect \u2014 answer is ${correctLetter}. ${correctText}`;
       feedbackResult.classList.add("is-wrong");
     }
 
@@ -149,12 +160,20 @@
     updateScore();
   }
 
+  function appendCheckIcon(li, symbol) {
+    const icon = document.createElement("span");
+    icon.className = "choice-check";
+    icon.textContent = symbol;
+    li.appendChild(icon);
+  }
+
   function updateProgress() {
     const total = currentCards.length;
     const current = currentIndex + 1;
     const pct = (current / total) * 100;
     progressBar.style.width = pct + "%";
-    progressText.textContent = `Card ${current} of ${total}`;
+    progressText.textContent = `${current} / ${total}`;
+    navPosition.textContent = `${current} / ${total}`;
   }
 
   function updateScore() {
@@ -162,7 +181,7 @@
       scoreText.textContent = "0 / 0 correct";
     } else {
       const pct = Math.round((correctCount / attemptedCount) * 100);
-      scoreText.textContent = `${correctCount} / ${attemptedCount} correct (${pct}%)`;
+      scoreText.textContent = `${correctCount}/${attemptedCount} correct (${pct}%)`;
     }
   }
 
@@ -184,6 +203,33 @@
       currentIndex--;
       renderCard();
     }
+  }
+
+  // ===== Swipe Gesture =====
+  function initSwipe() {
+    let startX = 0;
+    let startY = 0;
+    let tracking = false;
+
+    mainEl.addEventListener("touchstart", (e) => {
+      startX = e.touches[0].clientX;
+      startY = e.touches[0].clientY;
+      tracking = true;
+    }, { passive: true });
+
+    mainEl.addEventListener("touchend", (e) => {
+      if (!tracking) return;
+      tracking = false;
+
+      const dx = e.changedTouches[0].clientX - startX;
+      const dy = e.changedTouches[0].clientY - startY;
+
+      // Only count horizontal swipes (not scrolls)
+      if (Math.abs(dx) < 60 || Math.abs(dy) > Math.abs(dx)) return;
+
+      if (dx < 0) goNext();
+      else goPrev();
+    }, { passive: true });
   }
 
   // ===== Event Listeners =====
