@@ -308,6 +308,33 @@ main {
   display: none;
 }
 
+/* ===== Continue Button ===== */
+.continue-btn {
+  display: block;
+  width: 100%;
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  min-height: 48px;
+  border: none;
+  border-radius: 10px;
+  background: var(--primary);
+  color: white;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s;
+}
+
+.continue-btn:active {
+  background: var(--primary-light);
+}
+
+.continue-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
 /* ===== Bottom Navigation (fixed) ===== */
 .bottom-nav {
   position: fixed;

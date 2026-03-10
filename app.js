@@ -16,6 +16,7 @@
   const prevBtn = document.getElementById("prev-btn");
   const nextBtn = document.getElementById("next-btn");
   const navPosition = document.getElementById("nav-position");
+  const continueBtn = document.getElementById("continue-btn");
   const mainEl = document.getElementById("main");
 
   // ===== State =====
@@ -158,6 +159,7 @@
 
     cardExplanation.textContent = card.explanation || "";
     updateScore();
+    updateContinueBtn();
   }
 
   function appendCheckIcon(li, symbol) {
@@ -188,6 +190,12 @@
   function updateNavButtons() {
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === currentCards.length - 1;
+  }
+
+  function updateContinueBtn() {
+    const isLast = currentIndex === currentCards.length - 1;
+    continueBtn.disabled = isLast;
+    continueBtn.textContent = isLast ? "End of Deck" : "Next Question \u2192";
   }
 
   // ===== Navigation =====
@@ -235,6 +243,7 @@
   // ===== Event Listeners =====
   prevBtn.addEventListener("click", goPrev);
   nextBtn.addEventListener("click", goNext);
+  continueBtn.addEventListener("click", goNext);
   shuffleBtn.addEventListener("click", shuffleCards);
 
   deckSelect.addEventListener("change", (e) => {
