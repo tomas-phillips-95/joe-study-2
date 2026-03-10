@@ -19,26 +19,27 @@
       <button id="shuffle-btn" title="Shuffle cards">&#x1F500; Shuffle</button>
     </div>
 
+    <!-- Score -->
+    <div class="score-bar">
+      <span id="score-text">0 / 0 correct</span>
+    </div>
+
     <!-- Progress Bar -->
     <div class="progress-bar-container">
       <div class="progress-bar" id="progress-bar"></div>
     </div>
     <p class="progress-text" id="progress-text"></p>
 
-    <!-- Flashcard -->
-    <div class="card-scene" id="card-scene">
-      <div class="card" id="card">
-        <div class="card-face card-front" id="card-front">
-          <p class="card-question" id="card-question"></p>
-          <ul class="card-choices" id="card-choices"></ul>
-          <p class="tap-hint">Tap to reveal answer</p>
-        </div>
-        <div class="card-face card-back" id="card-back">
-          <p class="answer-label">Correct Answer</p>
-          <p class="card-answer" id="card-answer"></p>
-          <p class="card-explanation" id="card-explanation"></p>
-          <p class="tap-hint">Tap to return to question</p>
-        </div>
+    <!-- Question Card -->
+    <div class="card" id="card">
+      <p class="card-question" id="card-question"></p>
+      <ul class="card-choices" id="card-choices"></ul>
+      <p class="tap-hint" id="tap-hint">Select an answer</p>
+
+      <!-- Feedback (hidden until answered) -->
+      <div class="feedback" id="feedback">
+        <p class="feedback-result" id="feedback-result"></p>
+        <p class="card-explanation" id="card-explanation"></p>
       </div>
     </div>
 
@@ -49,10 +50,9 @@
     </div>
 
     <!-- Keyboard hint -->
-    <p class="keyboard-hint">Use <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>Space</kbd> to flip</p>
+    <p class="keyboard-hint">Use <kbd>&larr;</kbd> <kbd>&rarr;</kbd> to navigate, <kbd>1</kbd>-<kbd>4</kbd> to choose</p>
   </main>
 
   <script src="app.js"></script>
 </body>
 </html>
-

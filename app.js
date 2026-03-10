@@ -6,11 +6,12 @@
   const shuffleBtn = document.getElementById("shuffle-btn");
   const progressBar = document.getElementById("progress-bar");
   const progressText = document.getElementById("progress-text");
-  const cardEl = document.getElementById("card");
-  const cardScene = document.getElementById("card-scene");
+  const scoreText = document.getElementById("score-text");
   const cardQuestion = document.getElementById("card-question");
   const cardChoices = document.getElementById("card-choices");
-  const cardAnswer = document.getElementById("card-answer");
+  const tapHint = document.getElementById("tap-hint");
+  const feedback = document.getElementById("feedback");
+  const feedbackResult = document.getElementById("feedback-result");
   const cardExplanation = document.getElementById("card-explanation");
   const prevBtn = document.getElementById("prev-btn");
   const nextBtn = document.getElementById("next-btn");
@@ -19,6 +20,9 @@
   let allDecks = [];
   let currentCards = [];
   let currentIndex = 0;
+  let answered = false;
+  let correctCount = 0;
+  let attemptedCount = 0;
 
   // ===== Init =====
   async function init() {
@@ -42,7 +46,9 @@
   function loadDeck(deckIndex) {
     currentCards = [...allDecks[deckIndex].cards];
     currentIndex = 0;
-    unflipCard();
+    correctCount = 0;
+    attemptedCount = 0;
+    resetAnswerState();
     renderCard();
   }
 
@@ -53,8 +59,20 @@
       [currentCards[i], currentCards[j]] = [currentCards[j], currentCards[i]];
     }
     currentIndex = 0;
-    unflipCard();
+    correctCount = 0;
+    attemptedCount = 0;
+    resetAnswerState();
     renderCard();
+  }
+
+  // ===== Answer State =====
+  function resetAnswerState() {
+    answered = false;
+    feedback.classList.remove("visible");
+    tapHint.classList.remove("hidden");
+    feedbackResult.className = "feedback-result";
+    feedbackResult.textContent = "";
+    cardExplanation.textContent = "";
   }
 
   // ===== Rendering =====
@@ -62,52 +80,73 @@
     const card = currentCards[currentIndex];
     if (!card) return;
 
-    // Question
+    resetAnswerState();
     cardQuestion.textContent = card.question;
 
-    // Choices
+    // Build choice list
     cardChoices.innerHTML = "";
-    if (card.choices && Object.keys(card.choices).length > 0) {
-      for (const [letter, text] of Object.entries(card.choices)) {
-        const li = document.createElement("li");
-        const span = document.createElement("span");
-        span.className = "choice-letter";
-        span.textContent = letter + ".";
-        li.appendChild(span);
-        li.appendChild(document.createTextNode(" " + text));
-        cardChoices.appendChild(li);
-      }
-    }
+    const letters = Object.keys(card.choices || {});
+    letters.forEach((letter) => {
+      const li = document.createElement("li");
+      li.dataset.letter = letter;
 
-    // Answer (back side)
-    const answerLetter = card.answer;
-    const answerText = card.choices?.[answerLetter] || "";
-    cardAnswer.textContent = answerLetter
-      ? `${answerLetter}. ${answerText}`
-      : "No answer available";
+      const span = document.createElement("span");
+      span.className = "choice-letter";
+      span.textContent = letter + ".";
+      li.appendChild(span);
+      li.appendChild(document.createTextNode(" " + card.choices[letter]));
 
-    // Explanation
-    cardExplanation.textContent = card.explanation || "";
+      li.addEventListener("click", () => selectAnswer(letter));
+      cardChoices.appendChild(li);
+    });
 
-    // Progress
     updateProgress();
+    updateScore();
     updateNavButtons();
-
-    // Dynamically size the card-scene to fit whichever face is taller
-    requestAnimationFrame(resizeCardScene);
   }
 
-  function resizeCardScene() {
-    const front = document.getElementById("card-front");
-    const back = document.getElementById("card-back");
-    const flipped = cardEl.classList.contains("is-flipped");
-    const activeHeight = flipped ? back.scrollHeight : front.scrollHeight;
-    const minH = Math.max(activeHeight, 200);
-    cardScene.style.minHeight = minH + "px";
-    cardEl.style.minHeight = minH + "px";
-    for (const face of [front, back]) {
-      face.style.minHeight = minH + "px";
+  // ===== Answer Selection =====
+  function selectAnswer(selectedLetter) {
+    if (answered) return;
+    answered = true;
+    attemptedCount++;
+
+    const card = currentCards[currentIndex];
+    const correctLetter = card.answer;
+    const isCorrect = selectedLetter === correctLetter;
+
+    if (isCorrect) correctCount++;
+
+    // Mark all choices
+    const items = cardChoices.querySelectorAll("li");
+    items.forEach((li) => {
+      const letter = li.dataset.letter;
+      li.classList.add("answered");
+
+      if (letter === correctLetter) {
+        li.classList.add("correct");
+      } else if (letter === selectedLetter) {
+        li.classList.add("wrong");
+      } else {
+        li.classList.add("dimmed");
+      }
+    });
+
+    // Show feedback
+    tapHint.classList.add("hidden");
+    feedback.classList.add("visible");
+
+    if (isCorrect) {
+      feedbackResult.textContent = "Correct!";
+      feedbackResult.classList.add("is-correct");
+    } else {
+      const correctText = card.choices[correctLetter] || "";
+      feedbackResult.textContent = `Incorrect — the answer is ${correctLetter}. ${correctText}`;
+      feedbackResult.classList.add("is-wrong");
     }
+
+    cardExplanation.textContent = card.explanation || "";
+    updateScore();
   }
 
   function updateProgress() {
@@ -118,26 +157,24 @@
     progressText.textContent = `Card ${current} of ${total}`;
   }
 
+  function updateScore() {
+    if (attemptedCount === 0) {
+      scoreText.textContent = "0 / 0 correct";
+    } else {
+      const pct = Math.round((correctCount / attemptedCount) * 100);
+      scoreText.textContent = `${correctCount} / ${attemptedCount} correct (${pct}%)`;
+    }
+  }
+
   function updateNavButtons() {
     prevBtn.disabled = currentIndex === 0;
     nextBtn.disabled = currentIndex === currentCards.length - 1;
-  }
-
-  // ===== Card Flip =====
-  function flipCard() {
-    cardEl.classList.toggle("is-flipped");
-    requestAnimationFrame(resizeCardScene);
-  }
-
-  function unflipCard() {
-    cardEl.classList.remove("is-flipped");
   }
 
   // ===== Navigation =====
   function goNext() {
     if (currentIndex < currentCards.length - 1) {
       currentIndex++;
-      unflipCard();
       renderCard();
     }
   }
@@ -145,17 +182,13 @@
   function goPrev() {
     if (currentIndex > 0) {
       currentIndex--;
-      unflipCard();
       renderCard();
     }
   }
 
   // ===== Event Listeners =====
-  cardScene.addEventListener("click", flipCard);
-
   prevBtn.addEventListener("click", goPrev);
   nextBtn.addEventListener("click", goNext);
-
   shuffleBtn.addEventListener("click", shuffleCards);
 
   deckSelect.addEventListener("change", (e) => {
@@ -169,16 +202,12 @@
     } else if (e.key === "ArrowLeft") {
       e.preventDefault();
       goPrev();
-    } else if (e.key === " ") {
-      e.preventDefault();
-      flipCard();
+    } else if (["1", "2", "3", "4"].includes(e.key)) {
+      const letterMap = { "1": "A", "2": "B", "3": "C", "4": "D" };
+      selectAnswer(letterMap[e.key]);
     }
   });
-
-  // Resize on flip transition end
-  cardEl.addEventListener("transitionend", resizeCardScene);
 
   // ===== Start =====
   init();
 })();
-
